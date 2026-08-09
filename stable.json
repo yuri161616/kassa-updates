@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.32.2",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.2/kassa_repair-19.0.1.32.2.zip",
-    "sha256":  "a16385fa3187fef9ffbd66c7c6f46e819c61ae428aff2b9152060caffc3c6e0d",
-    "size":  10739056,
+    "version":  "19.0.1.32.3",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.3/kassa_repair-19.0.1.32.3.zip",
+    "sha256":  "958b57049d13b36fcc0d02d44939eecedee37407efe8307c6c79f18d917aaf58",
+    "size":  10745992,
     "required":  false,
-    "notes_he":  "עדכון הקופה מהאינטרנט — בלי התקנה מחדש",
-    "published":  "2026-08-09T15:58:12Z"
+    "notes_he":  "דוח הבעלים: פולס עסקי, מגמת הכנסות, ייצוא והדפסה; כל מדורי ההגדרות נראים גם במסך נמוך",
+    "published":  "2026-08-09T20:20:19Z"
 }
