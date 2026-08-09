@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.32.3",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.3/kassa_repair-19.0.1.32.3.zip",
-    "sha256":  "958b57049d13b36fcc0d02d44939eecedee37407efe8307c6c79f18d917aaf58",
-    "size":  10745992,
+    "version":  "19.0.1.32.4",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.4/kassa_repair-19.0.1.32.4.zip",
+    "sha256":  "2b514fac36903d5baad357a3e9a9b792f9de1c8518410dc85b10e741a55caa63",
+    "size":  10745948,
     "required":  false,
-    "notes_he":  "דוח הבעלים: פולס עסקי, מגמת הכנסות, ייצוא והדפסה; כל מדורי ההגדרות נראים גם במסך נמוך",
-    "published":  "2026-08-09T20:20:19Z"
+    "notes_he":  "הפס התחתון קוצר: קיצורי לקוחות וחיפוש IMEI הוסרו — הפעולות נשארו במסך המכירה ובפאנל המעבדה",
+    "published":  "2026-08-09T20:33:34Z"
 }
