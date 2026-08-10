@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.32.4",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.4/kassa_repair-19.0.1.32.4.zip",
-    "sha256":  "2b514fac36903d5baad357a3e9a9b792f9de1c8518410dc85b10e741a55caa63",
-    "size":  10745948,
+    "version":  "19.0.1.32.5",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.5/kassa_repair-19.0.1.32.5.zip",
+    "sha256":  "e5f7fe18b4d5ee921f8c620238cb0664014b6f48f99ef09fb9a82ef626b3bf1a",
+    "size":  10746615,
     "required":  false,
-    "notes_he":  "הפס התחתון קוצר: קיצורי לקוחות וחיפוש IMEI הוסרו — הפעולות נשארו במסך המכירה ובפאנל המעבדה",
-    "published":  "2026-08-09T20:33:34Z"
+    "notes_he":  "מוצר חדש וניהול מחלקות נפתחים ישירות ממרכז המלאי — בלי לפתוח קבלת סחורה",
+    "published":  "2026-08-10T05:18:23Z"
 }
