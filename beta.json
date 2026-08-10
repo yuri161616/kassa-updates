@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.34.8",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.8/kassa_repair-19.0.1.34.8.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/508683352",
-    "sha256":  "c9069f5392410513d62162c0cc6dcfd6f7957a1cfe9a6e1cdcea6dfd5d5c4099",
-    "size":  10785257,
+    "version":  "19.0.1.34.9",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.9/kassa_repair-19.0.1.34.9.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/508877970",
+    "sha256":  "3f320911f713474d619ba75bf333059c73affe8df6b66fb8ebebdb537d310171",
+    "size":  10795952,
     "required":  false,
-    "notes_he":  "fix(publish): read the release asset id without quoting through gh",
-    "published":  "2026-08-10T11:38:05Z"
+    "notes_he":  "תיקון: העדכון מהקופה עובד שוב",
+    "published":  "2026-08-10T14:54:37Z"
 }
