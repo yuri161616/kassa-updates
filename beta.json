@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.32.6",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.6/kassa_repair-19.0.1.32.6.zip",
-    "sha256":  "edfce98ec0dbd750f08222e32429db84cff75163c11ee644b8a45f0f35f2030a",
-    "size":  10750938,
+    "version":  "19.0.1.32.7",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.7/kassa_repair-19.0.1.32.7.zip",
+    "sha256":  "5cf020640dd50eb2cbe00ea64e04a468332d88886e3ef47680e034e0aa41b3ed",
+    "size":  10751437,
     "required":  false,
-    "notes_he":  "סגירת משמרת שנכשלה כבר לא נועלת את הקופה ולא מוציאה מהמודול — המשמרת חוזרת לעבודה והמסך מסביר מה קרה",
-    "published":  "2026-08-10T05:37:11Z"
+    "notes_he":  "חלון «המשמרת לא נסגרה» הוא כרטיס קצר וקריא במקום מסך מלא",
+    "published":  "2026-08-10T05:42:23Z"
 }
