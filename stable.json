@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.32.7",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.7/kassa_repair-19.0.1.32.7.zip",
-    "sha256":  "5cf020640dd50eb2cbe00ea64e04a468332d88886e3ef47680e034e0aa41b3ed",
-    "size":  10751437,
+    "version":  "19.0.1.32.8",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.8/kassa_repair-19.0.1.32.8.zip",
+    "sha256":  "60815098e1ad7767d2789b0fce383000559a899152816fc0af54296e7c0b025d",
+    "size":  10752130,
     "required":  false,
-    "notes_he":  "חלון «המשמרת לא נסגרה» הוא כרטיס קצר וקריא במקום מסך מלא",
-    "published":  "2026-08-10T05:42:23Z"
+    "notes_he":  "פתיחת משמרת לא נחסמת בגלל מוצר הנחה חסר; בדיקות לא משאירות קבלות ששוברות סגירת משמרת",
+    "published":  "2026-08-10T06:03:11Z"
 }
