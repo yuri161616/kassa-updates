@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.32.5",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.5/kassa_repair-19.0.1.32.5.zip",
-    "sha256":  "e5f7fe18b4d5ee921f8c620238cb0664014b6f48f99ef09fb9a82ef626b3bf1a",
-    "size":  10746615,
+    "version":  "19.0.1.32.6",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.6/kassa_repair-19.0.1.32.6.zip",
+    "sha256":  "edfce98ec0dbd750f08222e32429db84cff75163c11ee644b8a45f0f35f2030a",
+    "size":  10750938,
     "required":  false,
-    "notes_he":  "מוצר חדש וניהול מחלקות נפתחים ישירות ממרכז המלאי — בלי לפתוח קבלת סחורה",
-    "published":  "2026-08-10T05:18:23Z"
+    "notes_he":  "סגירת משמרת שנכשלה כבר לא נועלת את הקופה ולא מוציאה מהמודול — המשמרת חוזרת לעבודה והמסך מסביר מה קרה",
+    "published":  "2026-08-10T05:37:11Z"
 }
