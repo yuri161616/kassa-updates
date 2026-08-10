@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.34.2",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.2/kassa_repair-19.0.1.34.2.zip",
-    "sha256":  "8cd0db9bbc1ed42833c297b2a499479360fd755ec1af16809be72330746f6603",
-    "size":  10769694,
+    "version":  "19.0.1.34.3",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.3/kassa_repair-19.0.1.34.3.zip",
+    "sha256":  "d05798d9a11d0ba27d788de8ed8b4cbc26a8d7b6aa83dc81b92ea490ad638523",
+    "size":  10771119,
     "required":  false,
-    "notes_he":  "כל חלונות השאלה של הקופה בעיצוב MAXIMA",
-    "published":  "2026-08-10T07:33:14Z"
+    "notes_he":  "תיקון: קליטת סחורה נפתחת גם עם כניסה לפי עובד",
+    "published":  "2026-08-10T07:42:42Z"
 }
