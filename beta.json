@@ -1,9 +1,10 @@
 {
-    "version":  "19.0.1.34.7",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.7/kassa_repair-19.0.1.34.7.zip",
-    "sha256":  "89810512c1242fdfb6be3802af1e1f7bdffa23fe07e6ebfde89432ec1f3f1fba",
-    "size":  10784318,
+    "version":  "19.0.1.34.8",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.8/kassa_repair-19.0.1.34.8.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/508683352",
+    "sha256":  "c9069f5392410513d62162c0cc6dcfd6f7957a1cfe9a6e1cdcea6dfd5d5c4099",
+    "size":  10785257,
     "required":  false,
-    "notes_he":  "רישיון לקופה - התקנה אחת לחנות אחת",
-    "published":  "2026-08-10T10:55:39Z"
+    "notes_he":  "fix(publish): read the release asset id without quoting through gh",
+    "published":  "2026-08-10T11:38:05Z"
 }
