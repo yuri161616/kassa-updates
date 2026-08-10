@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.34.6",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.6/kassa_repair-19.0.1.34.6.zip",
-    "sha256":  "0793f9e425129dad35d6c2b983b33cd2ca1c76323add699104e6c702bfe89012",
-    "size":  10777179,
+    "version":  "19.0.1.34.7",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.7/kassa_repair-19.0.1.34.7.zip",
+    "sha256":  "89810512c1242fdfb6be3802af1e1f7bdffa23fe07e6ebfde89432ec1f3f1fba",
+    "size":  10784318,
     "required":  false,
-    "notes_he":  "מסך קוד מנהל בעיצוב MAXIMA",
-    "published":  "2026-08-10T08:26:04Z"
+    "notes_he":  "רישיון לקופה - התקנה אחת לחנות אחת",
+    "published":  "2026-08-10T10:55:39Z"
 }
