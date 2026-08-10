@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.32.9",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.9/kassa_repair-19.0.1.32.9.zip",
-    "sha256":  "f3f1750ad1c758e9568bb7306ec75cad0a61e89589accf1539dc0719a02bf929",
-    "size":  10752925,
+    "version":  "19.0.1.33.0",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.33.0/kassa_repair-19.0.1.33.0.zip",
+    "sha256":  "89965deb1f199b06360e4c83d8d46a0de65dfe23204e1360ec05bdde0671f62a",
+    "size":  10753061,
     "required":  false,
-    "notes_he":  "מסך פתיחת המשמרת לבש את שפת MAXIMA: כותרת, הסבר ושדה סכום גדול",
-    "published":  "2026-08-10T06:08:24Z"
+    "notes_he":  "הכניסה לקופה רק דרך בחירת עובד — מסך בחירת עובד עולה לפני הקופה",
+    "published":  "2026-08-10T06:14:47Z"
 }
