@@ -1,9 +1,9 @@
 {
-    "version":  "19.0.1.32.4",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.4/kassa_repair-19.0.1.32.4.zip",
-    "sha256":  "2b514fac36903d5baad357a3e9a9b792f9de1c8518410dc85b10e741a55caa63",
-    "size":  10745948,
+    "version":  "19.0.1.32.6",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.32.6/kassa_repair-19.0.1.32.6.zip",
+    "sha256":  "edfce98ec0dbd750f08222e32429db84cff75163c11ee644b8a45f0f35f2030a",
+    "size":  10750938,
     "required":  false,
-    "notes_he":  "הפס התחתון קוצר: קיצורי לקוחות וחיפוש IMEI הוסרו — הפעולות נשארו במסך המכירה ובפאנל המעבדה",
-    "published":  "2026-08-09T20:33:34Z"
+    "notes_he":  "סגירת משמרת שנכשלה כבר לא נועלת את הקופה ולא מוציאה מהמודול — המשמרת חוזרת לעבודה והמסך מסביר מה קרה",
+    "published":  "2026-08-10T05:37:11Z"
 }
