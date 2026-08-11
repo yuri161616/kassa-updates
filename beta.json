@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.34.21",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.21/kassa_repair-19.0.1.34.21.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/509785796",
-    "sha256":  "adad16ae2dc9d6c29bebc3e048124485f62d6644f9116b124c1e542345d7c76c",
-    "size":  10824310,
+    "version":  "19.0.1.34.22",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.22/kassa_repair-19.0.1.34.22.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/509803015",
+    "sha256":  "5e120f025450b6bd211fbad5b9aaf5316f33b551ca458f3a37db6acc0ae412ca",
+    "size":  10824827,
     "required":  false,
-    "notes_he":  "feat(lab): ╫¢╫£ ╫₧╫ò╫á╫ö ╫æ╫£╫ò╫ù ╫ö╫₧╫ó╫æ╫ô╫ö ╫ñ╫ò╫¬╫ù ╫æ╫ô╫Ö╫ò╫º ╫É╫¬ ╫ö╫¬╫Ö╫º╫ò╫á╫Ö╫¥ ╫⌐╫í╫ñ╫¿",
-    "published":  "2026-08-11T06:50:38Z"
+    "notes_he":  "fix(pos): ╫ö╫º╫ò╫ñ╫ö ╫£╫É ╫₧╫¬╫ö╫ñ╫¢╫¬ ╫Ö╫ò╫¬╫¿ ╫æ╫£╫ù╫Ö╫ª╫ö ╫ö╫¿╫É╫⌐╫ò╫á╫ö ╫ó╫£ ╫⌐╫ô╫ö",
+    "published":  "2026-08-11T07:08:39Z"
 }
