@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.34.18",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.18/kassa_repair-19.0.1.34.18.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/509748853",
-    "sha256":  "df9d0f6e54986a8402f37c2ee83f85458709bf618acc2acf5817e1a4882cbdca",
-    "size":  10819330,
+    "version":  "19.0.1.34.19",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.19/kassa_repair-19.0.1.34.19.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/509758733",
+    "sha256":  "1a55ad874934c95bdd78d3422b350e0e46dc6417a9eacb3d65dc4c87d3c1836a",
+    "size":  10820934,
     "required":  false,
-    "notes_he":  "שדות חובה של כסף מסומנים באדום",
-    "published":  "2026-08-11T06:07:50Z"
+    "notes_he":  "תיקון: מוצרי שירות נמצאים לפי רשומה ולא לפי שם",
+    "published":  "2026-08-11T06:20:24Z"
 }
