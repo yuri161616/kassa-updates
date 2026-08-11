@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.2",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.2/kassa_repair-19.0.1.38.2.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/510533198",
-    "sha256":  "ca4ded1a9beed2b491b6607bcb0058f0b245857d538f550f8fb78c7565abf5bd",
-    "size":  10870729,
+    "version":  "19.0.1.38.3",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.3/kassa_repair-19.0.1.38.3.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/510580348",
+    "sha256":  "1ca0e85d2d7353aafcff617b7b0ef77c87e7449772a983585a35f6dbb6ec04c2",
+    "size":  10875001,
     "required":  false,
-    "notes_he":  "fix: check updates through Windows trust store",
-    "published":  "2026-08-11T19:14:53Z"
+    "notes_he":  "עיצוב MAXIMA חדש וברור לאשף ייבוא הלקוחות מאקסל",
+    "published":  "2026-08-11T20:01:55Z"
 }
