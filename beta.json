@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.4",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.4/kassa_repair-19.0.1.38.4.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/510598403",
-    "sha256":  "7fd7f2eb6d3d3ff7b879867ae6ffc4344d4ba3c3d40d59348fa830bb9988b5f9",
-    "size":  10880145,
+    "version":  "19.0.1.38.5",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.5/kassa_repair-19.0.1.38.5.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/510600603",
+    "sha256":  "e0baa99740236117927a1bc27efd60f9d8bf82fe110c8c3646e1b521d4522c17",
+    "size":  10879269,
     "required":  false,
-    "notes_he":  "ייבוא הלקוחות נפתח כעת בתוך מודול MAXIMA בקופה ולא במסך Odoo",
-    "published":  "2026-08-11T20:20:04Z"
+    "notes_he":  "fix(update): ╫ö╫º╫ò╫ñ╫ö ╫á╫ÿ╫ó╫á╫¬ ╫₧╫ù╫ô╫⌐ ╫£╫æ╫ô ╫æ╫í╫Ö╫ò╫¥ ╫ö╫ó╫ô╫¢╫ò╫ƒ",
+    "published":  "2026-08-11T20:22:50Z"
 }
