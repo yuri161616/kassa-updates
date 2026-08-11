@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.34.12",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.12/kassa_repair-19.0.1.34.12.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/509687068",
-    "sha256":  "b033d4787bca28b776c539f44fffb60b2f8eece002cbea38920bc7bc7a8abb60",
-    "size":  10807732,
+    "version":  "19.0.1.34.13",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.34.13/kassa_repair-19.0.1.34.13.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/509696001",
+    "sha256":  "eefc2098f4e6abda34e0dfb6e4f073ec40cee86493de5f0dfa401ddf56888177",
+    "size":  10808617,
     "required":  false,
-    "notes_he":  "רווח לפי מחלקה בדוח",
-    "published":  "2026-08-11T04:58:04Z"
+    "notes_he":  "לחיצה על ריבוע בדוח פותחת את המסך המתאים",
+    "published":  "2026-08-11T05:07:53Z"
 }
