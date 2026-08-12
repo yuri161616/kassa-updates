@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.6",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.6/kassa_repair-19.0.1.38.6.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/510626630",
-    "sha256":  "38581ff833febcdb6521e17fed353806eb70899387d147044b0499ce0c7fa31e",
-    "size":  10881437,
+    "version":  "19.0.1.38.7",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.7/kassa_repair-19.0.1.38.7.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511058899",
+    "sha256":  "94a23dc919e81647721d6835daeacca307cb7deb5decaa6118cc54c1d7a6edd8",
+    "size":  10893022,
     "required":  false,
-    "notes_he":  "חלון הגדרות הקופה מתאים את עצמו אוטומטית לכל גודל מסך, ללא חיתוך בצד או בתחתית.",
-    "published":  "2026-08-11T20:48:46Z"
+    "notes_he":  "בונוסים: 14 סוגים חדשים — בונוס צוות, מדרגות, סט, הגעה בזמן, ביקורת גוגל",
+    "published":  "2026-08-12T04:25:41Z"
 }
