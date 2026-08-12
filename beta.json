@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.13",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.13/kassa_repair-19.0.1.38.13.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511205999",
-    "sha256":  "7beac897ec1770513bb3426155b1e1c31df3dcef18b538bf8470493445f7e9bd",
-    "size":  10905259,
+    "version":  "19.0.1.38.14",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.14/kassa_repair-19.0.1.38.14.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511237806",
+    "sha256":  "fbda5fa1d8c77af984d867736a2874793375ff89630c78f070da3f09e0a2e819",
+    "size":  10906488,
     "required":  false,
-    "notes_he":  "הקופה נכנסת לכל גודל מסך — אמצעי תשלום וכפתורים תמיד גלויים",
-    "published":  "2026-08-12T06:57:35Z"
+    "notes_he":  "הכול נכנס למסך — בלי גלילה בשום עמודה, גם על מסך 1024",
+    "published":  "2026-08-12T07:27:48Z"
 }
