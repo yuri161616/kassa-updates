@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.16",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.16/kassa_repair-19.0.1.38.16.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511329942",
-    "sha256":  "dcb273a60bf9ea42f210a864a852a3eb1fdc96d5ca9f11f2d361251c008c81b8",
-    "size":  10909160,
+    "version":  "19.0.1.38.17",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.17/kassa_repair-19.0.1.38.17.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511385773",
+    "sha256":  "885933694ae0940ef647d96eee38bb4235cf416a8b1700d00d7c7c84f687635f",
+    "size":  10912658,
     "required":  false,
-    "notes_he":  "המקלדת אומרת על מה היא עובדת · −1/+1 במקום כפתורים מטעים · שטרות בבלוק נפרד",
-    "published":  "2026-08-12T08:53:52Z"
+    "notes_he":  "כפתור העדכון מוודא שההתקנה באמת התחילה ומציג שגיאה מיידית אם Windows לא הפעיל אותה.",
+    "published":  "2026-08-12T09:48:14Z"
 }
