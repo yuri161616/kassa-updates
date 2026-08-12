@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.14",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.14/kassa_repair-19.0.1.38.14.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511237806",
-    "sha256":  "fbda5fa1d8c77af984d867736a2874793375ff89630c78f070da3f09e0a2e819",
-    "size":  10906488,
+    "version":  "19.0.1.38.15",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.15/kassa_repair-19.0.1.38.15.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511245944",
+    "sha256":  "198b85a765410a2b3df2322199e2f35159380044818e8576a121d0fcc39026f9",
+    "size":  10906821,
     "required":  false,
-    "notes_he":  "הכול נכנס למסך — בלי גלילה בשום עמודה, גם על מסך 1024",
-    "published":  "2026-08-12T07:27:48Z"
+    "notes_he":  "מקום לכפתורים בא מהקישוט — כפתורי תשלום גדולים גם על מסך קטן",
+    "published":  "2026-08-12T07:35:48Z"
 }
