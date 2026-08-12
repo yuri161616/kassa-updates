@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.9",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.9/kassa_repair-19.0.1.38.9.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511088487",
-    "sha256":  "1802a190b862bed4cda5054753b36bcb2396a51f17fc7ea5f90f101a62492931",
-    "size":  10893752,
+    "version":  "19.0.1.38.10",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.10/kassa_repair-19.0.1.38.10.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511104360",
+    "sha256":  "1f23f4a2b7799c9f0ed21533ca47796aec81cc8c413f900f7089841fb990cbfc",
+    "size":  10899659,
     "required":  false,
-    "notes_he":  "חלון הבונוסים נפתח על כל המסך",
-    "published":  "2026-08-12T04:55:52Z"
+    "notes_he":  "כל הכבוד! חגיגת בונוס מיד אחרי מכירה",
+    "published":  "2026-08-12T05:10:47Z"
 }
