@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.10",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.10/kassa_repair-19.0.1.38.10.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511104360",
-    "sha256":  "1f23f4a2b7799c9f0ed21533ca47796aec81cc8c413f900f7089841fb990cbfc",
-    "size":  10899659,
+    "version":  "19.0.1.38.11",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.11/kassa_repair-19.0.1.38.11.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511121119",
+    "sha256":  "59b5030c780c04ec8a43c8f300c182955ef158c6bb7bc3da98e95c1e6b628713",
+    "size":  10901705,
     "required":  false,
-    "notes_he":  "כל הכבוד! חגיגת בונוס מיד אחרי מכירה",
-    "published":  "2026-08-12T05:10:47Z"
+    "notes_he":  "הבונוס שלי — כפתור בשורה התחתונה עם התקדמות ליעד",
+    "published":  "2026-08-12T05:31:12Z"
 }
