@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.17",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.17/kassa_repair-19.0.1.38.17.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511385773",
-    "sha256":  "885933694ae0940ef647d96eee38bb4235cf416a8b1700d00d7c7c84f687635f",
-    "size":  10912658,
+    "version":  "19.0.1.38.22",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.22/kassa_repair-19.0.1.38.22.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511729032",
+    "sha256":  "b7d08516c0e3b5736e9a8e20ce9d24dc1b4849b0c4a7dae3074b425fd7b9b8d1",
+    "size":  10925241,
     "required":  false,
-    "notes_he":  "כפתור העדכון מוודא שההתקנה באמת התחילה ומציג שגיאה מיידית אם Windows לא הפעיל אותה.",
-    "published":  "2026-08-12T09:48:14Z"
+    "notes_he":  "ליד הגרסה כתוב באיזה ערוץ היא האחרונה — רגיל או בדיקות",
+    "published":  "2026-08-12T15:15:18Z"
 }
