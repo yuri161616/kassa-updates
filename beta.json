@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.12",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.12/kassa_repair-19.0.1.38.12.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511128079",
-    "sha256":  "38906d556e70fa62b4a9f3fe41e0f3b553e91d7bd51e6cffe9def7b7bba83e3a",
-    "size":  10902567,
+    "version":  "19.0.1.38.13",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.13/kassa_repair-19.0.1.38.13.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511205999",
+    "sha256":  "7beac897ec1770513bb3426155b1e1c31df3dcef18b538bf8470493445f7e9bd",
+    "size":  10905259,
     "required":  false,
-    "notes_he":  "הבונוס שלי — מסך מלא ובחירת עובד",
-    "published":  "2026-08-12T05:38:46Z"
+    "notes_he":  "הקופה נכנסת לכל גודל מסך — אמצעי תשלום וכפתורים תמיד גלויים",
+    "published":  "2026-08-12T06:57:35Z"
 }
