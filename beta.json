@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.8",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.8/kassa_repair-19.0.1.38.8.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511081440",
-    "sha256":  "04dd7f99bb9e417ca1684e33c973f92cc042bad91e213488d1deeead13c6cca4",
-    "size":  10893310,
+    "version":  "19.0.1.38.9",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.9/kassa_repair-19.0.1.38.9.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511088487",
+    "sha256":  "1802a190b862bed4cda5054753b36bcb2396a51f17fc7ea5f90f101a62492931",
+    "size":  10893752,
     "required":  false,
-    "notes_he":  "בונוסים ויעדים — שורה משלו בתפריט ההגדרות",
-    "published":  "2026-08-12T04:48:38Z"
+    "notes_he":  "חלון הבונוסים נפתח על כל המסך",
+    "published":  "2026-08-12T04:55:52Z"
 }
