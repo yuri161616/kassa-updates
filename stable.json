@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.22",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.22/kassa_repair-19.0.1.38.22.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511729032",
-    "sha256":  "b7d08516c0e3b5736e9a8e20ce9d24dc1b4849b0c4a7dae3074b425fd7b9b8d1",
-    "size":  10925241,
+    "version":  "19.0.1.38.31",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.31/kassa_repair-19.0.1.38.31.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511893490",
+    "sha256":  "ae6743bf42d7c65968707dfbb863f775fca42a59ed249c8bf7279ed37dbecae1",
+    "size":  10935373,
     "required":  false,
-    "notes_he":  "ליד הגרסה כתוב באיזה ערוץ היא האחרונה — רגיל או בדיקות",
-    "published":  "2026-08-12T15:15:18Z"
+    "notes_he":  "release: 19.0.1.38.31",
+    "published":  "2026-08-12T17:57:25Z"
 }
