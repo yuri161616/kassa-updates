@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.11",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.11/kassa_repair-19.0.1.38.11.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511121119",
-    "sha256":  "59b5030c780c04ec8a43c8f300c182955ef158c6bb7bc3da98e95c1e6b628713",
-    "size":  10901705,
+    "version":  "19.0.1.38.12",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.12/kassa_repair-19.0.1.38.12.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511128079",
+    "sha256":  "38906d556e70fa62b4a9f3fe41e0f3b553e91d7bd51e6cffe9def7b7bba83e3a",
+    "size":  10902567,
     "required":  false,
-    "notes_he":  "הבונוס שלי — כפתור בשורה התחתונה עם התקדמות ליעד",
-    "published":  "2026-08-12T05:31:12Z"
+    "notes_he":  "הבונוס שלי — מסך מלא ובחירת עובד",
+    "published":  "2026-08-12T05:38:46Z"
 }
