@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.20",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.20/kassa_repair-19.0.1.38.20.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511637287",
-    "sha256":  "4f65eb8147754fdceece5ffd4ab38ef29c323971278e4dd4d8f3b1d912f27a7d",
-    "size":  10922866,
+    "version":  "19.0.1.38.21",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.21/kassa_repair-19.0.1.38.21.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/511688021",
+    "sha256":  "236f8e5449c25e9555de42748f6e8904ed2d8cb2c67b57601c654323b882be9a",
+    "size":  10924724,
     "required":  false,
-    "notes_he":  "release: 19.0.1.38.20",
-    "published":  "2026-08-12T13:52:29Z"
+    "notes_he":  "עותק עבודה כבר לא מתחזה לקופת החנות; הגרסה נקראת מהקובץ ולא ממסד הנתונים",
+    "published":  "2026-08-12T14:38:07Z"
 }
