@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.43",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.43/kassa_repair-19.0.1.38.43.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/512819361",
-    "sha256":  "5df67f6f442f829ea644609f238f758842f4f100f99c4790d42ab81463f3493a",
-    "size":  11003615,
+    "version":  "19.0.1.38.44",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.44/kassa_repair-19.0.1.38.44.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/512829580",
+    "sha256":  "2a3906ac3947fde18a80d99889e26f5ddfb2cbe00bc5e36a5a4225786ab54139",
+    "size":  11005826,
     "required":  false,
-    "notes_he":  "release: 19.0.1.38.43",
-    "published":  "2026-08-13T10:05:12Z"
+    "notes_he":  "release: 19.0.1.38.44",
+    "published":  "2026-08-13T10:14:03Z"
 }
