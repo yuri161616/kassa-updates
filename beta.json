@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.122",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.122/kassa_repair-19.0.1.38.122.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516744552",
-    "sha256":  "6354d677bad5c2923d1a6f06d6a503a126324c4cb161492f63d7f94e78054bfd",
-    "size":  11302763,
+    "version":  "19.0.1.38.123",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.123/kassa_repair-19.0.1.38.123.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516778042",
+    "sha256":  "1d4b53ab3e9041794064df748c64c76370fa20441dc6340aee213d5ca5679620",
+    "size":  11312511,
     "required":  false,
-    "notes_he":  "הכניסה למערכת פותחת ישר את הקופה, בלי המשרד האחורי של Odoo. מסך ההתחברות בעיצוב MAXIMA.",
-    "published":  "2026-08-16T11:28:53Z"
+    "notes_he":  "מדור «לעומק» בדוח המכירות: שנה מול שנה, שעות ויום בשבוע, ודוח ספקים.",
+    "published":  "2026-08-16T12:10:26Z"
 }
