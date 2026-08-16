@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.124",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.124/kassa_repair-19.0.1.38.124.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516789307",
-    "sha256":  "63f83b28b365d8e6eddf1dee8f8587777c65298fd334f20091f3be4e3ccc8d66",
-    "size":  11317239,
+    "version":  "19.0.1.38.125",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.125/kassa_repair-19.0.1.38.125.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516799258",
+    "sha256":  "5a0ee37eb313a2989f73652a5a7b6de054bcb2ba52c0ebaf406ba671e1e947e5",
+    "size":  11318163,
     "required":  false,
-    "notes_he":  "תיקון אוטומטי למשימת עדכון Windows תקועה והתקנה בטוחה של קובצי העדכון",
-    "published":  "2026-08-16T12:23:49Z"
+    "notes_he":  "מצב קופה נפתח כתצוגה מקדימה; הדפסה רק בכפתור נפרד",
+    "published":  "2026-08-16T12:35:55Z"
 }
