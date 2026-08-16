@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.121",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.121/kassa_repair-19.0.1.38.121.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516721502",
-    "sha256":  "c8592131a096c852221d4c62c22e8d87fc30e1ff979827246831905e52f51bba",
-    "size":  11298083,
+    "version":  "19.0.1.38.122",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.122/kassa_repair-19.0.1.38.122.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516744552",
+    "sha256":  "6354d677bad5c2923d1a6f06d6a503a126324c4cb161492f63d7f94e78054bfd",
+    "size":  11302763,
     "required":  false,
-    "notes_he":  "מדור «פריטים»: כל עשרת הכפתורים נבדקו מקצה לקצה. תוקן גם חלון הזנת PIN שקרס.",
-    "published":  "2026-08-16T10:56:34Z"
+    "notes_he":  "הכניסה למערכת פותחת ישר את הקופה, בלי המשרד האחורי של Odoo. מסך ההתחברות בעיצוב MAXIMA.",
+    "published":  "2026-08-16T11:28:53Z"
 }
