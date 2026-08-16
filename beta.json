@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.123",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.123/kassa_repair-19.0.1.38.123.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516778042",
-    "sha256":  "1d4b53ab3e9041794064df748c64c76370fa20441dc6340aee213d5ca5679620",
-    "size":  11312511,
+    "version":  "19.0.1.38.124",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.124/kassa_repair-19.0.1.38.124.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516789307",
+    "sha256":  "63f83b28b365d8e6eddf1dee8f8587777c65298fd334f20091f3be4e3ccc8d66",
+    "size":  11317239,
     "required":  false,
-    "notes_he":  "מדור «לעומק» בדוח המכירות: שנה מול שנה, שעות ויום בשבוע, ודוח ספקים.",
-    "published":  "2026-08-16T12:10:26Z"
+    "notes_he":  "תיקון אוטומטי למשימת עדכון Windows תקועה והתקנה בטוחה של קובצי העדכון",
+    "published":  "2026-08-16T12:23:49Z"
 }
