@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.125",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.125/kassa_repair-19.0.1.38.125.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516799258",
-    "sha256":  "5a0ee37eb313a2989f73652a5a7b6de054bcb2ba52c0ebaf406ba671e1e947e5",
-    "size":  11318163,
+    "version":  "19.0.1.38.126",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.126/kassa_repair-19.0.1.38.126.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516811818",
+    "sha256":  "a921f11fda04217773270a9286f5c2c5563bb8eb905352ea30bb81cc74c969fa",
+    "size":  11318277,
     "required":  false,
-    "notes_he":  "מצב קופה נפתח כתצוגה מקדימה; הדפסה רק בכפתור נפרד",
-    "published":  "2026-08-16T12:35:55Z"
+    "notes_he":  "הערה לפריט מודפסת מתחת למוצר בקבלה",
+    "published":  "2026-08-16T12:49:03Z"
 }
