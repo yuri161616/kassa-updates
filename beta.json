@@ -1,10 +1,10 @@
 {
     "version":  "19.0.1.38.126",
     "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.126/kassa_repair-19.0.1.38.126.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516811818",
-    "sha256":  "a921f11fda04217773270a9286f5c2c5563bb8eb905352ea30bb81cc74c969fa",
-    "size":  11318277,
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516858812",
+    "sha256":  "0795366aad6ad809b588fbd2e967dccbd294f747faaf759f60fe8abb45830c6e",
+    "size":  11314368,
     "required":  false,
-    "notes_he":  "הערה לפריט מודפסת מתחת למוצר בקבלה",
-    "published":  "2026-08-16T12:49:03Z"
+    "notes_he":  "תיקוני העוזר: «מצב קופה» מציג דוח X על המסך לפני הדפסה, הערה לפריט חוזרת להיות מודפסת בקבלה, וכפתור העדכון מתאושש ממשימת Windows תקועה.",
+    "published":  "2026-08-16T13:40:37Z"
 }
