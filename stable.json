@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.127",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.127/kassa_repair-19.0.1.38.127.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516899378",
-    "sha256":  "1e5b7998298a4f9606e525e46b9102ccaebed0ab59180a9d0352ace67f850360",
-    "size":  11325181,
+    "version":  "19.0.1.38.128",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.128/kassa_repair-19.0.1.38.128.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/517020290",
+    "sha256":  "069745a1d5bffdaf9fcd1dc4f056685aeb93ae831e106fddc7105befdc25b893",
+    "size":  11325617,
     "required":  false,
-    "notes_he":  "הבוקר מתחיל בשלוש שורות: מה קרה, למה זה כסף וכפתור שמוביל למקום שבו מטפלים.",
-    "published":  "2026-08-16T14:28:57Z"
+    "notes_he":  "המספר על «כל המחלקות» מוצג במלואו ונספר נכון.",
+    "published":  "2026-08-16T16:58:33Z"
 }
