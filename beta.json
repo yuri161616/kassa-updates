@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.126",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.126/kassa_repair-19.0.1.38.126.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516858812",
-    "sha256":  "0795366aad6ad809b588fbd2e967dccbd294f747faaf759f60fe8abb45830c6e",
-    "size":  11314368,
+    "version":  "19.0.1.38.127",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.127/kassa_repair-19.0.1.38.127.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516899378",
+    "sha256":  "1e5b7998298a4f9606e525e46b9102ccaebed0ab59180a9d0352ace67f850360",
+    "size":  11325181,
     "required":  false,
-    "notes_he":  "תיקוני העוזר: «מצב קופה» מציג דוח X על המסך לפני הדפסה, הערה לפריט חוזרת להיות מודפסת בקבלה, וכפתור העדכון מתאושש ממשימת Windows תקועה.",
-    "published":  "2026-08-16T13:40:37Z"
+    "notes_he":  "הבוקר מתחיל בשלוש שורות: מה קרה, למה זה כסף וכפתור שמוביל למקום שבו מטפלים.",
+    "published":  "2026-08-16T14:28:57Z"
 }
