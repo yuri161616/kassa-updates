@@ -1,10 +1,10 @@
 {
-    "version":  "19.0.1.38.120",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.120/kassa_repair-19.0.1.38.120.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516672626",
-    "sha256":  "d1ecc7e15b4d668d0b63f646c8624ebc2df567795cd2e9f1e67033435cedf373",
-    "size":  11292970,
+    "version":  "19.0.1.38.121",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.38.121/kassa_repair-19.0.1.38.121.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/516721502",
+    "sha256":  "c8592131a096c852221d4c62c22e8d87fc30e1ff979827246831905e52f51bba",
+    "size":  11298083,
     "required":  false,
-    "notes_he":  "release: 19.0.1.38.120",
-    "published":  "2026-08-16T09:54:01Z"
+    "notes_he":  "מדור «פריטים»: כל עשרת הכפתורים נבדקו מקצה לקצה. תוקן גם חלון הזנת PIN שקרס.",
+    "published":  "2026-08-16T10:56:34Z"
 }
