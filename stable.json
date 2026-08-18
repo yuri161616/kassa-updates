@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.12",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.12/kassa_repair-19.0.1.39.12.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/518988703",
-    "sha256":  "46840805cec5337f122dd292cef28ad782991c411b19cb9406ef18821d74cc5f",
-    "size":  11464048,
-    "commit":  "2e0770c92c00a980557defef10cc1b2b2ef7f418",
-    "files_digest":  "1f0f55c7b6ec26138270118bb3ef28cac808fdf303dd135b406ac97397c05d4d",
+    "version":  "19.0.1.39.13",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.13/kassa_repair-19.0.1.39.13.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/519019528",
+    "sha256":  "341311425835b39ddaed6dc674a3911fac83ff66a8a034741f60dc5a822d07ec",
+    "size":  11471589,
+    "commit":  "a82346b0a1b4d8d700022d402f25311d256852c0",
+    "files_digest":  "5415078f2b34380253a1761e557d62e20bfe28af17389cdb9c2aefaa6f19a2a8",
     "required":  false,
-    "notes_he":  "release: 19.0.1.39.12",
-    "published":  "2026-08-18T05:33:37Z"
+    "notes_he":  "החלפה באחריות: מסך מלא, רשימת הקניות עם מצב האחריות (בתוקף / הסתיימה / לא ידוע), מדיניות אחריות ברירת מחדל לעסק, סינון ולשוניות",
+    "published":  "2026-08-18T06:05:50Z"
 }
