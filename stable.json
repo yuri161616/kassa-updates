@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.15",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.15/kassa_repair-19.0.1.39.15.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/519076385",
-    "sha256":  "1995b6f9e56a2f7efa2112cb5758303ac779d0c99e22a1eb702dd8b2e29ac260",
-    "size":  11477910,
-    "commit":  "98bcb5ed931dcd7395ff5c7176f04d3b210511d8",
-    "files_digest":  "ae1bf2172e0c48e8ea6f2d3513ed1f8910f195890d57f8873b487b84f9ae50e8",
+    "version":  "19.0.1.39.16",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.16/kassa_repair-19.0.1.39.16.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/519108897",
+    "sha256":  "de07b62f74316acb1c61a620cfd4b1f94c3078b26e63080b5c78a84a0e7b53ed",
+    "size":  11478931,
+    "commit":  "7775c9ff568ed059539f17b2033cf1b0fad06ae1",
+    "files_digest":  "5e47ea4de102c8d11e5ae5be39009cfcff0100d0faec5c9ab778483e8d230965",
     "required":  false,
-    "notes_he":  "תיקוני נתונים נוסעים עם הגרסה: אחריות 12 חודשים למוצרי DEVIA/PRIVATE נכנסת לכל קופה אוטומטית — כולל החתמת מכירות העבר",
-    "published":  "2026-08-18T07:03:51Z"
+    "notes_he":  "release: 19.0.1.39.16",
+    "published":  "2026-08-18T07:34:56Z"
 }
