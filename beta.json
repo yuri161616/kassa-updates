@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.13",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.13/kassa_repair-19.0.1.39.13.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/519019528",
-    "sha256":  "341311425835b39ddaed6dc674a3911fac83ff66a8a034741f60dc5a822d07ec",
-    "size":  11471589,
-    "commit":  "a82346b0a1b4d8d700022d402f25311d256852c0",
-    "files_digest":  "5415078f2b34380253a1761e557d62e20bfe28af17389cdb9c2aefaa6f19a2a8",
+    "version":  "19.0.1.39.14",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.14/kassa_repair-19.0.1.39.14.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/519035091",
+    "sha256":  "d5baa9e1c5c6865cecf5c204f8dc957904b37c339ce895cc0c67d35637bc1e57",
+    "size":  11474153,
+    "commit":  "68f433c0e24355f97d1b75c38973141ffcb8fa0b",
+    "files_digest":  "c35e49bd559f18f0405b19eda47fb5d01ede397ea8f2588728b9cb2727dcd3e3",
     "required":  false,
-    "notes_he":  "החלפה באחריות: מסך מלא, רשימת הקניות עם מצב האחריות (בתוקף / הסתיימה / לא ידוע), מדיניות אחריות ברירת מחדל לעסק, סינון ולשוניות",
-    "published":  "2026-08-18T06:05:50Z"
+    "notes_he":  "החלפה באחריות: הקלדת ספרות מציעה מיד לקוחות מתאימים (שם, מספר מלא, כמה קניות ומתי האחרונה)",
+    "published":  "2026-08-18T06:22:12Z"
 }
