@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.34",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.34/kassa_repair-19.0.1.39.34.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/520890022",
-    "sha256":  "24453618ee4a8b948ff004b5ec1618fdf0351c6275ed0dce0d2823cc7c4b15d7",
-    "size":  11534372,
-    "commit":  "7f503a84099e0914231413d30a200989e14af2be",
-    "files_digest":  "6dc8502ddd6f58015f17b7474be0a3c63d459598add85200d52fabe3075f483c",
+    "version":  "19.0.1.39.35",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.35/kassa_repair-19.0.1.39.35.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/520990198",
+    "sha256":  "6777d5c1e2c80556edd9e1dc33129bc91aec5acc8c4b2a4b8204c048ca4f8631",
+    "size":  11535583,
+    "commit":  "5015cba8d1ebaf2dce3e72cc61368bba9d14e174",
+    "files_digest":  "c18a207f3def018231050693ac9d40cfcf9e074a3d3acd6fd4c56b95f4d4cf3a",
     "required":  false,
-    "notes_he":  "דוח העסק נדפס במלואו — קודם יצא דף ריק",
-    "published":  "2026-08-19T13:38:02Z"
+    "notes_he":  "release: 19.0.1.39.35",
+    "published":  "2026-08-19T15:08:23Z"
 }
