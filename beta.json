@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.29",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.29/kassa_repair-19.0.1.39.29.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/520769584",
-    "sha256":  "ba01c18b5b7ca266b40c8d24cf6d06aff795298b0fdb243bf848d0dc7ed7f4aa",
-    "size":  11523540,
-    "commit":  "bc61d20b6f93c55af6c7cc928b83d865a561c395",
-    "files_digest":  "002722b166d9a88e54ec66bb234a1739d261f9d3911a58a7c012bfed9d5b5861",
+    "version":  "19.0.1.39.30",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.30/kassa_repair-19.0.1.39.30.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/520776988",
+    "sha256":  "c4c36e2aee2a9cf4a37bf9fb09237cfd0c7f12c3b3fdb75ee676f4bdc34b8c8b",
+    "size":  11524080,
+    "commit":  "a8e7357bdffd3d093a567b837ced57335aaf5bb1",
+    "files_digest":  "af573adc8cbe0503aeb0e18c664760b2953c61f5be5b71fcb8fac520f5b44d57",
     "required":  false,
-    "notes_he":  "רשימת מוכרים נפתחת עם סכום המכירות שלהם; אישור או ביטול חוב שהועבר — רק עם קוד מנהל, והביטול ניתן להחזרה",
-    "published":  "2026-08-19T11:39:55Z"
+    "notes_he":  "זיכוי מלא והחזרה חלקית / החלפה — רק באישור מנהל",
+    "published":  "2026-08-19T11:47:46Z"
 }
