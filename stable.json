@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.30",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.30/kassa_repair-19.0.1.39.30.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/520776988",
-    "sha256":  "c4c36e2aee2a9cf4a37bf9fb09237cfd0c7f12c3b3fdb75ee676f4bdc34b8c8b",
-    "size":  11524080,
-    "commit":  "a8e7357bdffd3d093a567b837ced57335aaf5bb1",
-    "files_digest":  "af573adc8cbe0503aeb0e18c664760b2953c61f5be5b71fcb8fac520f5b44d57",
+    "version":  "19.0.1.39.33",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.33/kassa_repair-19.0.1.39.33.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/520875403",
+    "sha256":  "ccb985b917183cb62fb7e4de0ac4ee305c901a1009b84cccda3ed3645d43b9b4",
+    "size":  11533634,
+    "commit":  "e60a20a83a99044ac8a3f6e576a9f51b71af8e07",
+    "files_digest":  "39cae2fbf408f9ec2e1cb377defc1831f06655eaee3e620e995370f8cfe3cbcc",
     "required":  true,
-    "notes_he":  "זיכוי מלא והחזרה חלקית / החלפה — רק באישור מנהל",
-    "published":  "2026-08-19T11:47:46Z"
+    "notes_he":  "תיקון הדפסה אמיתי: כלל הדפסה של דוח העסק החביא כל הדפסה אחרת בקופה",
+    "published":  "2026-08-19T13:25:03Z"
 }
