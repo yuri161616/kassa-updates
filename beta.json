@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.31",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.31/kassa_repair-19.0.1.39.31.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/520823109",
-    "sha256":  "0f9a924dd5e93b35132a9b0e2ce3dfc9e896f0ccad46c30b38a315010ea74da4",
-    "size":  11531974,
-    "commit":  "12e159946301c044dabd3abe71d497141167d61c",
-    "files_digest":  "18f1769f51222cd9c38d0380e1312359501d05889c917fe0f88564742bf4d230",
+    "version":  "19.0.1.39.32",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.32/kassa_repair-19.0.1.39.32.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/520853347",
+    "sha256":  "2fe8a64d8147303bf14d656a115acc50ca65a4030ce0dfa99f889041ad077591",
+    "size":  11532734,
+    "commit":  "f53803d3fa2500972576090246f93f287a006515",
+    "files_digest":  "71ae13f1d0649ff9ac6bbf1fe7480bb338bc565ad02bd3ccbe72e3ff53153ee6",
     "required":  false,
-    "notes_he":  "ספק החלק נבחר מתוך רשימה: סימון ספקי חלקים וסחורה, חיפוש, והוספת ספק חדש מתוך כרטיס התיקון",
-    "published":  "2026-08-19T12:35:47Z"
+    "notes_he":  "תיקון הדפסה: הקבלה יצאה מחוץ לדף והתקבל נייר ריק",
+    "published":  "2026-08-19T13:05:34Z"
 }
