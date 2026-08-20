@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.61",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.61/kassa_repair-19.0.1.39.61.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522211794",
-    "sha256":  "7c13e3cfc94cb6be42732c7b0d4e43b07072c7ac704134fa2e934ef121b72b61",
-    "size":  11655369,
-    "commit":  "10bc807437691d887d8ba88ea1bd64af1a54b44a",
-    "files_digest":  "ab2ae8af11ecd293ea8fd9885380ceb5a3967d2304a817b7b7341a768533a358",
+    "version":  "19.0.1.39.62",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.62/kassa_repair-19.0.1.39.62.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522237698",
+    "sha256":  "07ba3e58a7c7dcfbe0c3bf415b8477ff2106795c78481f755f24e33bc4742ffc",
+    "size":  11655746,
+    "commit":  "2130c99f25753c2f362b4049b67b3aead7a35aa5",
+    "files_digest":  "20822b5c155cc225a7c593e485d7d1e2cb9e57328c5a5dc181aabc3a898307ad",
     "required":  false,
-    "notes_he":  "מסך הכניסה: כל הכיתובים בעברית, שם החלון MAXIMA במקום Odoo, וההרשמה העצמית נסגרה — רק מי שהוזמן יכול להיכנס. איפוס סיסמה נשאר.",
-    "published":  "2026-08-20T12:17:47Z"
+    "notes_he":  "התמונה הזרה «Your logo» ירדה ממסך הכניסה. ברגע שתעלה סמל משלך לעסק — הוא יופיע שם מעצמו.",
+    "published":  "2026-08-20T12:43:10Z"
 }
