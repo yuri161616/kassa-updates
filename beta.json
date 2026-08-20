@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.65",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.65/kassa_repair-19.0.1.39.65.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522317842",
-    "sha256":  "35e14d595c7ba878ac4d71db4b083a43ef6c2aa75eb29a93455d967d75644b66",
-    "size":  11658494,
-    "commit":  "b7f4879fadd2f25eaa0d486134a15bc8226ba15b",
-    "files_digest":  "3176240ce8ccf6745c86ce2870c9e118d87dc4ad7f03045967b040305be39d65",
-    "required":  false,
-    "notes_he":  "שורת «חפש מוצרים» תוקנה: קודם הופיעה בתוכה תיבה לבנה נוספת עם מסגרת משלה, והשורה נראתה עקומה. עכשיו זו תיבה אחת בגובה הנכון.",
-    "published":  "2026-08-20T13:51:31Z"
+  "version": "19.0.1.39.66",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.66/kassa_repair-19.0.1.39.66.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522340442",
+  "sha256": "39560278ebe800be13a716aed4a7ab40025b7cfff2031ae4bf0084464050ed0a",
+  "size": 11685054,
+  "commit": "0d9fdf7f96dea1cdfc2a2074a63852821a40dc7f",
+  "files_digest": "3fe36d26bf66c0c9afef9b51d89cb6c418fe910293fe53ffe1970b7383891025",
+  "required": false,
+  "notes_he": "כפתור \"חזרה לעמוד קודם\" בתוך הנהלת חשבונות מחזיר עכשיו לסקירת המשרד, במקום לצאת למסך המכירה.",
+  "published": "2026-08-20T14:11:07Z"
 }
