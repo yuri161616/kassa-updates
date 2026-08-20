@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.68",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.68/kassa_repair-19.0.1.39.68.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522510652",
-    "sha256":  "561c38c6f217259484cdc854fa50bb26dd2cecff151427b6f9812851ab641b58",
-    "size":  11661382,
-    "commit":  "d037757e862541e10201a27a1833d869939dc8f2",
-    "files_digest":  "6d2f16e1d8ed5e55bc95fdff6d880c818130afbaf0f5cf7ca8a9c2c4880fff3f",
-    "required":  false,
-    "notes_he":  "כפתור הסריקה במצלמה הוסר מהסרגל העליון — בחנות יש סורק אמיתי, והכפתור רק ביקש גישה למצלמה בטעות באמצע מכירה.",
-    "published":  "2026-08-20T16:39:30Z"
+  "version": "19.0.1.39.69",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.69/kassa_repair-19.0.1.39.69.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522518982",
+  "sha256": "5c04d33d6afb54a219f06cbcdf5c0b4c1a593560a8ca74ded9f366462b01f09c",
+  "size": 11688022,
+  "commit": "628def070ccef52927b2974f511f6b45b569dd59",
+  "files_digest": "fed00bd6d4ec4501e8dded29574f65feb688e7178240bfa3a58e372187c76639",
+  "required": false,
+  "notes_he": "בדיקת רצף המסמכים פועלת שוב ב־Odoo 19. במקרה של תקלה מוצגת הודעה מסודרת עם כפתור ניסיון נוסף.",
+  "published": "2026-08-20T16:46:54Z"
 }
