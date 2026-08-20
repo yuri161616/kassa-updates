@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.65",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.65/kassa_repair-19.0.1.39.65.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522317842",
-    "sha256":  "35e14d595c7ba878ac4d71db4b083a43ef6c2aa75eb29a93455d967d75644b66",
-    "size":  11658494,
-    "commit":  "b7f4879fadd2f25eaa0d486134a15bc8226ba15b",
-    "files_digest":  "3176240ce8ccf6745c86ce2870c9e118d87dc4ad7f03045967b040305be39d65",
+    "version":  "19.0.1.39.68",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.68/kassa_repair-19.0.1.39.68.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522510652",
+    "sha256":  "561c38c6f217259484cdc854fa50bb26dd2cecff151427b6f9812851ab641b58",
+    "size":  11661382,
+    "commit":  "d037757e862541e10201a27a1833d869939dc8f2",
+    "files_digest":  "6d2f16e1d8ed5e55bc95fdff6d880c818130afbaf0f5cf7ca8a9c2c4880fff3f",
     "required":  false,
-    "notes_he":  "שורת «חפש מוצרים» תוקנה: קודם הופיעה בתוכה תיבה לבנה נוספת עם מסגרת משלה, והשורה נראתה עקומה. עכשיו זו תיבה אחת בגובה הנכון.",
-    "published":  "2026-08-20T13:51:31Z"
+    "notes_he":  "כפתור הסריקה במצלמה הוסר מהסרגל העליון — בחנות יש סורק אמיתי, והכפתור רק ביקש גישה למצלמה בטעות באמצע מכירה.",
+    "published":  "2026-08-20T16:39:30Z"
 }
