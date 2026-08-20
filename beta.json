@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.83",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.83/kassa_repair-19.0.1.39.83.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522821728",
-  "sha256": "3686753bb3187fa957267115ae3a62896bf4a5cb5337b7c2cbba670bff884213",
-  "size": 11691164,
-  "commit": "a521bc27db73c917dd1f37ccee68cec297b5a0e3",
-  "files_digest": "d7f2484387c852d83aa2f80cade5db536398473f47a7c4f8d421519c78e7e27d",
+  "version": "19.0.1.39.84",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.84/kassa_repair-19.0.1.39.84.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522826739",
+  "sha256": "3fa9ff7634733b4dc476db98b2ca6d12edac21db48f654f7b4cb1a1a8f568518",
+  "size": 11690929,
+  "commit": "f3647e8c8d4cf9c6604d515bd04717dcd351193b",
+  "files_digest": "84a5a9240fd4aa66354f9a85fc3a21e8fe83e8a7b7a4eab651537e3fbb101542",
   "required": false,
-  "notes_he": "כשפותחים כרטיס לקוח מתוך מסירת מכשיר ותשלום, הכפתור „חזרה לעמוד קודם” מחזיר כעת לאותה טבלת מסירה עם החיפוש והרשימה שנשמרו.",
-  "published": "2026-08-20T21:38:03Z"
+  "notes_he": "במסך מסירת מכשיר ותשלום הוסר הזמן הכפול שהופיע מתחת לסטטוס. עמודת הזמן היחידה נקראת כעת „זמן במעבדה” ומציגה את הזמן הכולל מאז קבלת המכשיר.",
+  "published": "2026-08-20T21:43:59Z"
 }
