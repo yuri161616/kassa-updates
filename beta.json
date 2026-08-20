@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.67",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.67/kassa_repair-19.0.1.39.67.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522474852",
-    "sha256":  "0ea2e0014410eb302577c9a867ba67efdc5c6390d9abdeaf4068cf5989d439a1",
-    "size":  11659947,
-    "commit":  "c464e19fa9374d1d9f7306f55634dffe55f62932",
-    "files_digest":  "d02eea2c400921e9bad18d65360962a07594728a68adf4baa3a13b4700d2f888",
+    "version":  "19.0.1.39.68",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.68/kassa_repair-19.0.1.39.68.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522510652",
+    "sha256":  "561c38c6f217259484cdc854fa50bb26dd2cecff151427b6f9812851ab641b58",
+    "size":  11661382,
+    "commit":  "d037757e862541e10201a27a1833d869939dc8f2",
+    "files_digest":  "6d2f16e1d8ed5e55bc95fdff6d880c818130afbaf0f5cf7ca8a9c2c4880fff3f",
     "required":  false,
-    "notes_he":  "דוח Z אחרון הציג בטעות את המשמרת של קופת הארכיון במקום של הקופה שלך — תוקן. בנוסף, שעת ההפקה מודפסת על הפתק לפי רגע ההדפסה בפועל.",
-    "published":  "2026-08-20T16:08:29Z"
+    "notes_he":  "כפתור הסריקה במצלמה הוסר מהסרגל העליון — בחנות יש סורק אמיתי, והכפתור רק ביקש גישה למצלמה בטעות באמצע מכירה.",
+    "published":  "2026-08-20T16:39:30Z"
 }
