@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.68",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.68/kassa_repair-19.0.1.39.68.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522510652",
-    "sha256":  "561c38c6f217259484cdc854fa50bb26dd2cecff151427b6f9812851ab641b58",
-    "size":  11661382,
-    "commit":  "d037757e862541e10201a27a1833d869939dc8f2",
-    "files_digest":  "6d2f16e1d8ed5e55bc95fdff6d880c818130afbaf0f5cf7ca8a9c2c4880fff3f",
+    "version":  "19.0.1.39.75",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.75/kassa_repair-19.0.1.39.75.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522758011",
+    "sha256":  "4a30cd43b75e01116e31898f3a299784083d555396a9d20ade16935360e83daf",
+    "size":  11664274,
+    "commit":  "c6e57b1a795844e22efaca4b25232c6caf85ca8e",
+    "files_digest":  "7356e21f0f43262cb54e4879d53e3b61392e87251a354fb7d39cd5f2ecabd6f1",
     "required":  false,
-    "notes_he":  "כפתור הסריקה במצלמה הוסר מהסרגל העליון — בחנות יש סורק אמיתי, והכפתור רק ביקש גישה למצלמה בטעות באמצע מכירה.",
-    "published":  "2026-08-20T16:39:30Z"
+    "notes_he":  "מסירת מכשיר — כפתור אחד במקום שלושה. חלון המסירה נפתח עד היום משלושה כפתורים שונים, ואחד מהם נקרא „תשלום תיקון” אף שפתח בדיוק את אותו החלון. נשאר כפתור אחד, זה שלידו המונה של המכשירים המוכנים, ושמו „מסירת מכשיר ותשלום” — אותו שם בפס הפעולות, במסך המעבדה ובכותרת החלון.",
+    "published":  "2026-08-20T20:31:49Z"
 }
