@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.81",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.81/kassa_repair-19.0.1.39.81.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522811531",
-  "sha256": "46c2184c3b134f179adea076b70daf656f236b5144f24f750ab5ac6d127cc0f0",
-  "size": 11690917,
-  "commit": "c6e719d3f636284380cc793a8764bc20dc483955",
-  "files_digest": "75820cc582618281fec76783715bfa4447b10a342bc744a7ad6d20e1f0a42cc7",
-  "required": false,
-  "notes_he": "במסך מסירת מכשיר ותשלום ניתן כעת לפתוח את כרטיס הלקוח בלחיצה על שמו. עמודת האייקון הוסרה, ונוספו תאריך הכניסה לתיקון והזמן הכולל שהמכשיר נמצא במעבדה.",
-  "published": "2026-08-20T21:26:25Z"
+    "version":  "19.0.1.39.82",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.82/kassa_repair-19.0.1.39.82.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522815704",
+    "sha256":  "2aaefc5971359b183b6e4c7f0ea2d4d633edbb0eb9bae1c6ec0186e3f45c93e7",
+    "size":  11664690,
+    "commit":  "36ccb34f7e05bc5bdb1b616bb8129ab2a3ed6749",
+    "files_digest":  "89c55a0b015dc94565670e4b913d28d21b978e524d64ba9e333cf76abff9d796",
+    "required":  false,
+    "notes_he":  "שורת מספרי החשבונות הוסרה מהפס העליון.\r\n\r\nהיא הציגה בפעם השלישית את אותו מידע — התג „ממתינים” שליד הסל ו„עסקאות שמורות” בפס הפעולות — וגם הכניסה לפס העליון חשבונות ריקים לגמרי, מספר בלי אף שורה מאחוריו.\r\n\r\nהחשבונות המוחזקים נשארים ליד הסל: לחיצה על „ממתינים” פותחת את הרשימה ומחזירה חשבון. מכירה מקבילה נפתחת ב„החזק מכירה” בפס הפעולות.",
+    "published":  "2026-08-20T21:31:20Z"
 }
