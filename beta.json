@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.56",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.56/kassa_repair-19.0.1.39.56.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522085765",
-    "sha256":  "697b5c7cc1d099f06b7965a8e1a170cacaa0955e394bf0aa4a366c6eaa297da9",
-    "size":  11644539,
-    "commit":  "92b0224dd6bdd3c89619f1529ff6269cbe35455a",
-    "files_digest":  "29395d674c0a83a2a4725a53cb8d084eb707206daef8e77a6edf15c573ebd77b",
-    "required":  false,
-    "notes_he":  "fix(transactions): ╨┐╨╛╨╗╨╛╤ü╨░ ╨┐╨╛╨┤╤ü╨║╨░╨╖╨╛╨║ ╨▒╨╛╨╗╤î╤ê╨╡ ╨╜╨╡ ╤â╨╡╨╖╨╢╨░╨╡╤é ╨╖╨░ ╨║╤Ç╨░╨╣ ╤ì╨║╤Ç╨░╨╜╨░",
-    "published":  "2026-08-20T10:14:13Z"
+    "version": "19.0.1.39.56",
+    "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.56/kassa_repair-19.0.1.39.56.zip",
+    "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522085765",
+    "sha256": "697b5c7cc1d099f06b7965a8e1a170cacaa0955e394bf0aa4a366c6eaa297da9",
+    "size": 11644539,
+    "commit": "92b0224dd6bdd3c89619f1529ff6269cbe35455a",
+    "files_digest": "29395d674c0a83a2a4725a53cb8d084eb707206daef8e77a6edf15c573ebd77b",
+    "required": false,
+    "notes_he": "תוקן: כפתורי ההסבר במסך העסקאות נחתכו בקצה המסך. כולל גם את השינויים הקודמים: ח.פ / עוסק מורשה במסך הלקוחות, ותאריכים לפי הסדר הישראלי יום/חודש/שנה.",
+    "published": "2026-08-20T10:14:13Z"
 }
