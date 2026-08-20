@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.79",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.79/kassa_repair-19.0.1.39.79.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522799577",
-  "sha256": "6acd92b88b0ea7459f3b03844509eb116e2bb755d6c3b7a704d02b1626b88ab6",
-  "size": 11690194,
-  "commit": "43e8b8273feb1f847c8f2123a89c7f3efb29c088",
-  "files_digest": "a4effb37f5cb571a8ef38171fff4f187a9a4136955533baad6633e7172d3616a",
+  "version": "19.0.1.39.80",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.80/kassa_repair-19.0.1.39.80.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522803693",
+  "sha256": "7f5cc5e4a3762784572b493e08638debf9fedaad23f314dd1b8f7ccb3062d47a",
+  "size": 11690258,
+  "commit": "4a58d09e5a89f4f65743c97cd3e8e3f839a3abf4",
+  "files_digest": "5af92c0de790a235b4f4f480912e32717dbe244f2019b9a105f91d2cf146f0e5",
   "required": false,
-  "notes_he": "הוסר הכפתור הכפול „מוכן למסירה” מהסרגל השמאלי. מסירת מכשיר ותשלום נשארת זמינה מהכפתור הייעודי העליון, והמסננים החשובים האחרים במעבדה נשמרו.",
-  "published": "2026-08-20T21:13:36Z"
+  "notes_he": "הכפתור „מוכן למסירה” הוחזר לסרגל השמאלי במלואו, כולל המונה והמעבר לרשימת המעבדה המסוננת למכשירים שמוכנים למסירה.",
+  "published": "2026-08-20T21:17:55Z"
 }
