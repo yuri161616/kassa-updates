@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.55",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.55/kassa_repair-19.0.1.39.55.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522056581",
-    "sha256":  "19671382d3d188e25afa23151277f32b477261c32816ea5da21f14a893e2a0ee",
-    "size":  11644222,
-    "commit":  "78f86d8e629186b774547b8b0080df43722bb980",
-    "files_digest":  "3e4971a6a960f0fc51236ebe24f69aa14dd3b220c12c14c8740e706fc920ee23",
-    "required":  false,
-    "notes_he":  "fix(ui): ╨┤╨░╤é╤ï ╨┐╨╛-╨╕╨╖╤Ç╨░╨╕╨╗╤î╤ü╨║╨╕ ╨╕ ╨┐╨╛╨┤╤ü╨║╨░╨╖╨║╨╕ ╤ü ╨╕╨╝╨╡╨╜╨░╨╝╨╕",
-    "published":  "2026-08-20T09:46:16Z"
+    "version": "19.0.1.39.55",
+    "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.55/kassa_repair-19.0.1.39.55.zip",
+    "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522056581",
+    "sha256": "19671382d3d188e25afa23151277f32b477261c32816ea5da21f14a893e2a0ee",
+    "size": 11644222,
+    "commit": "78f86d8e629186b774547b8b0080df43722bb980",
+    "files_digest": "3e4971a6a960f0fc51236ebe24f69aa14dd3b220c12c14c8740e706fc920ee23",
+    "required": false,
+    "notes_he": "במסך הלקוחות נוסף ח.פ / עוסק מורשה — רואים אותו ברשימה, בכרטיס, ואפשר להוסיף או לתקן אותו בכל רגע. תאריכים מוצגים לפי הסדר הישראלי: יום/חודש/שנה. כפתורי ההסבר במסך העסקאות קיבלו שמות.",
+    "published": "2026-08-20T09:46:16Z"
 }
