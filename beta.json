@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.58",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.58/kassa_repair-19.0.1.39.58.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522125492",
-    "sha256":  "5603775513f0d3842bfd53e6e3de2c41c0de1b4cf6715bfbe08e5fa160d7e8c3",
-    "size":  11647070,
-    "commit":  "eb364ab552d3210a1cbae15d5e850e0a2f8a85bf",
-    "files_digest":  "2c11491525c71c0418d900524e31fb1f7e0d86c96f0fbc1a0b1020096ce2150a",
+    "version":  "19.0.1.39.59",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.59/kassa_repair-19.0.1.39.59.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522140107",
+    "sha256":  "d9cfa6615166e2941bead0d9cd42892e48c8d1244415cfe14d60b23aa7218c96",
+    "size":  11647691,
+    "commit":  "f616307ba93f9ba6060274c95bfa5f7df1f0d3ca",
+    "files_digest":  "ab54f99d22677ccfb74377d7d6a6517261749eb9c76d06d0b232b64ffc966c75",
     "required":  false,
-    "notes_he":  "תוקן: הקווים בשדות התאריך עמדו בצד הלא נכון. תאריכים מוצגים כעת נכון: יום/חודש/שנה.",
-    "published":  "2026-08-20T10:49:28Z"
+    "notes_he":  "תאריך עם שעה (לביצוע עד, חלקי חילוף) מוצג גם הוא לפי הסדר הישראלי: יום/חודש/שנה.",
+    "published":  "2026-08-20T11:02:54Z"
 }
