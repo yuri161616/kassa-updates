@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.70",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.70/kassa_repair-19.0.1.39.70.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522540493",
-    "sha256":  "43fe64cf778d01a7da4110499edf48459f2dd75de01099f9d915ba7a040266c4",
-    "size":  11662837,
-    "commit":  "c0c857c34e3b885cd7290b20ad3d89c136f5c75b",
-    "files_digest":  "c7432082a321628f39998ef71e701501798aaa2895bfe37edc8896e2ebeb5d4b",
+    "version":  "19.0.1.39.71",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.71/kassa_repair-19.0.1.39.71.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522551166",
+    "sha256":  "f70953eeeb4109f30338f371b16471a691238ea23b96f649c477cc58a0ecf259",
+    "size":  11663385,
+    "commit":  "4612b5350e75fc8f46fbe4f487bf643c401fd2cf",
+    "files_digest":  "afa66e119783f4f672664238458c38fb52bea80a91129b4b8b6fb95f7c19e814",
     "required":  false,
-    "notes_he":  "במסך התשלום כפתור היציאה קיבל חץ וכיתוב «חזרה למכירה» במקום «חזור» — עכשיו רואים מיד איך חוזרים לסל.",
-    "published":  "2026-08-20T17:07:07Z"
+    "notes_he":  "כפתור «חזרה למכירה» במסך התשלום צבוע עכשיו באדום בולט — אי אפשר לפספס אותו. הכפתור רק מחזיר לסל; העסקה נשמרת ואינה מתבטלת.",
+    "published":  "2026-08-20T17:17:24Z"
 }
