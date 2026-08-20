@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.76",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.76/kassa_repair-19.0.1.39.76.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522768049",
-    "sha256":  "9923a125ecd7c100cf33a24be121bf7b04dcc7c6e17a0ba034261ec69a6072c9",
-    "size":  11664350,
-    "commit":  "92b2cfbc0d9b1a104f6b901c6352758520c45104",
-    "files_digest":  "4622863df4ab57723fcf209489c4a6b3650498845c026ed5851c76946bff2370",
-    "required":  false,
-    "notes_he":  "היסטוריית העסקאות — דלת אחת.\r\n\r\n„מכירה אחרונה” בפס הפעולות ו„עסקאות” בפס התחתון פתחו את אותו חלון בדיוק. נשאר „עסקאות” בפס התחתון: הוא נראה תמיד ושמו אומר בדיוק מה יש בפנים.\r\n\r\nהפס שמתחת לסל, שמראה את המכירה הקודמת ואת העודף עם כפתור „קבלה”, נשאר כשהיה.",
-    "published":  "2026-08-20T20:41:58Z"
+  "version": "19.0.1.39.77",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.77/kassa_repair-19.0.1.39.77.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522775693",
+  "sha256": "bb05fba91368bdefca8be26118e247c88e5accb374d8da4348031fc7bba5b7e8",
+  "size": 11689886,
+  "commit": "220f200ecce89255e07d3a58a3b0b9810e139214",
+  "files_digest": "5c05bc6eeca6332c5752b5dea0fbc074de2ef85d1d817af42b7751055953cc30",
+  "required": false,
+  "notes_he": "מסך מסירת מכשיר ותשלום מציג כעת כל תיקון בשורה אחת: מכשיר, טלפון, שם לקוח, סטטוס מכשיר, כפתור כרטיס לקוח והוספה לחשבון. כך רואים יותר לקוחות יחד ופועלים ישירות מהשורה.",
+  "published": "2026-08-20T20:50:17Z"
 }
