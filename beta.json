@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.82",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.82/kassa_repair-19.0.1.39.82.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522815704",
-    "sha256":  "2aaefc5971359b183b6e4c7f0ea2d4d633edbb0eb9bae1c6ec0186e3f45c93e7",
-    "size":  11664690,
-    "commit":  "36ccb34f7e05bc5bdb1b616bb8129ab2a3ed6749",
-    "files_digest":  "89c55a0b015dc94565670e4b913d28d21b978e524d64ba9e333cf76abff9d796",
-    "required":  false,
-    "notes_he":  "שורת מספרי החשבונות הוסרה מהפס העליון.\r\n\r\nהיא הציגה בפעם השלישית את אותו מידע — התג „ממתינים” שליד הסל ו„עסקאות שמורות” בפס הפעולות — וגם הכניסה לפס העליון חשבונות ריקים לגמרי, מספר בלי אף שורה מאחוריו.\r\n\r\nהחשבונות המוחזקים נשארים ליד הסל: לחיצה על „ממתינים” פותחת את הרשימה ומחזירה חשבון. מכירה מקבילה נפתחת ב„החזק מכירה” בפס הפעולות.",
-    "published":  "2026-08-20T21:31:20Z"
+  "version": "19.0.1.39.83",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.83/kassa_repair-19.0.1.39.83.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522821728",
+  "sha256": "3686753bb3187fa957267115ae3a62896bf4a5cb5337b7c2cbba670bff884213",
+  "size": 11691164,
+  "commit": "a521bc27db73c917dd1f37ccee68cec297b5a0e3",
+  "files_digest": "d7f2484387c852d83aa2f80cade5db536398473f47a7c4f8d421519c78e7e27d",
+  "required": false,
+  "notes_he": "כשפותחים כרטיס לקוח מתוך מסירת מכשיר ותשלום, הכפתור „חזרה לעמוד קודם” מחזיר כעת לאותה טבלת מסירה עם החיפוש והרשימה שנשמרו.",
+  "published": "2026-08-20T21:38:03Z"
 }
