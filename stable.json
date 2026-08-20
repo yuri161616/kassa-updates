@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.60",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.60/kassa_repair-19.0.1.39.60.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522170122",
-    "sha256":  "0fb8a3e043108c99a406584eca1d430d3e85d603d16f95526712861d45116fa8",
-    "size":  11653588,
-    "commit":  "048585d050f8a9ed8e33b3643b5da4b1fad572ef",
-    "files_digest":  "c6b2a2d5dfc785ac3e05553f909e16321003be16637e8f27b7bf264352248ee1",
+    "version":  "19.0.1.39.61",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.61/kassa_repair-19.0.1.39.61.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522211794",
+    "sha256":  "7c13e3cfc94cb6be42732c7b0d4e43b07072c7ac704134fa2e934ef121b72b61",
+    "size":  11655369,
+    "commit":  "10bc807437691d887d8ba88ea1bd64af1a54b44a",
+    "files_digest":  "ab2ae8af11ecd293ea8fd9885380ceb5a3967d2304a817b7b7341a768533a358",
     "required":  false,
-    "notes_he":  "כפתור חדש בהגדרות ← מערכת: «התקן על המחשב הזה». אם סמל MAXIMA כבר מותקן ותקין — הקופה תודיע ולא תתקין שוב; אם משהו נשבר — יתוקן אוטומטית.",
-    "published":  "2026-08-20T11:35:06Z"
+    "notes_he":  "מסך הכניסה: כל הכיתובים בעברית, שם החלון MAXIMA במקום Odoo, וההרשמה העצמית נסגרה — רק מי שהוזמן יכול להיכנס. איפוס סיסמה נשאר.",
+    "published":  "2026-08-20T12:17:47Z"
 }
