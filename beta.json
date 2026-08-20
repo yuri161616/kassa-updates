@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.71",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.71/kassa_repair-19.0.1.39.71.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522551166",
-    "sha256":  "f70953eeeb4109f30338f371b16471a691238ea23b96f649c477cc58a0ecf259",
-    "size":  11663385,
-    "commit":  "4612b5350e75fc8f46fbe4f487bf643c401fd2cf",
-    "files_digest":  "afa66e119783f4f672664238458c38fb52bea80a91129b4b8b6fb95f7c19e814",
-    "required":  false,
-    "notes_he":  "כפתור «חזרה למכירה» במסך התשלום צבוע עכשיו באדום בולט — אי אפשר לפספס אותו. הכפתור רק מחזיר לסל; העסקה נשמרת ואינה מתבטלת.",
-    "published":  "2026-08-20T17:17:24Z"
+  "version": "19.0.1.39.72",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.72/kassa_repair-19.0.1.39.72.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522705700",
+  "sha256": "4d1aaee98ccc2ec9ebad04e294da6db6401cb9e874612c5acb8282c12a21331b",
+  "size": 11690791,
+  "commit": "b1397b598a744febe81227c5f9236969e6147f60",
+  "files_digest": "87d5caf7041119948ece598ad6d4d896dee5d8382013ed985edb875120d34f94",
+  "required": false,
+  "notes_he": "מסך מסירת מכשיר מציג כעת קודם את הלקוח, הטלפון, המכשיר, ארבע הספרות האחרונות של IMEI, סטטוס המעבדה, זמן ההמתנה והיתרה. מספר התיקון עבר לשורה משנית, ולא ניתן למסור מכשיר לפני שהמעבדה סימנה אותו כמוכן לאיסוף.",
+  "published": "2026-08-20T19:37:25Z"
 }
