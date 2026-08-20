@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.74",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.74/kassa_repair-19.0.1.39.74.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522737367",
-  "sha256": "9493c0e603b31030c94f12294b9adfeb0af1708bc7923a8cdb11ef9da0ece93c",
-  "size": 11690281,
-  "commit": "6dc02e8a6a56e618286e9d80b619b1560d852937",
-  "files_digest": "9ac6d14f4560a1577ec81401d4f1dcd37451e067d2e15adf10ba989ec7d448d9",
-  "required": false,
-  "notes_he": "מסירת מכשיר פועלת כעת במסך אחד: כל תוצאת חיפוש מציגה מיד את פרטי הלקוח, המכשיר, סטטוס המעבדה, העבודה, האחריות, המקדמה והיתרה, עם כפתור הוספה לחשבון. אין עוד צורך ללחוץ על „לחץ לבחירה” ולפתוח מסך נוסף.",
-  "published": "2026-08-20T20:10:14Z"
+    "version":  "19.0.1.39.75",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.75/kassa_repair-19.0.1.39.75.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522758011",
+    "sha256":  "4a30cd43b75e01116e31898f3a299784083d555396a9d20ade16935360e83daf",
+    "size":  11664274,
+    "commit":  "c6e57b1a795844e22efaca4b25232c6caf85ca8e",
+    "files_digest":  "7356e21f0f43262cb54e4879d53e3b61392e87251a354fb7d39cd5f2ecabd6f1",
+    "required":  false,
+    "notes_he":  "שיפורים ותיקונים בקופה.",
+    "published":  "2026-08-20T20:31:49Z"
 }
