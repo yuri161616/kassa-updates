@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.77",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.77/kassa_repair-19.0.1.39.77.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522775693",
-  "sha256": "bb05fba91368bdefca8be26118e247c88e5accb374d8da4348031fc7bba5b7e8",
-  "size": 11689886,
-  "commit": "220f200ecce89255e07d3a58a3b0b9810e139214",
-  "files_digest": "5c05bc6eeca6332c5752b5dea0fbc074de2ef85d1d817af42b7751055953cc30",
-  "required": false,
-  "notes_he": "מסך מסירת מכשיר ותשלום מציג כעת כל תיקון בשורה אחת: מכשיר, טלפון, שם לקוח, סטטוס מכשיר, כפתור כרטיס לקוח והוספה לחשבון. כך רואים יותר לקוחות יחד ופועלים ישירות מהשורה.",
-  "published": "2026-08-20T20:50:17Z"
+    "version":  "19.0.1.39.78",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.78/kassa_repair-19.0.1.39.78.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522785210",
+    "sha256":  "21582c36c2c2b98877d13fc85c3c40ed4b7f75d74a39fe22a5c48ae3ce968784",
+    "size":  11663699,
+    "commit":  "bffaa88cc4161219a6773777df2f9239e76ca29d",
+    "files_digest":  "44aab0e974c91d6826511c23ccfdb651899c84d9f18c9b3713785dc857f84a17",
+    "required":  false,
+    "notes_he":  "הפס העליון בלי כפתורים מיותרים.\r\n\r\n„קופה”, „עסקאות” ו„מכירה נוספת” הוסרו מהפס העליון, ו„חיפוש IMEI” הוסר מהפאנל הצדדי של המעבדה.\r\n\r\n„עסקאות” שלמעלה פתח בדיוק את אותו יומן שפותח „עסקאות” בפס התחתון, ו„קופה” החזיר למסך המכירה שהקופה עומדת עליו ממילא.\r\n\r\nמכירה מקבילה נשארה: „החזק מכירה” בפס הפעולות שומר את הסל ופותח מכירה חדשה, והמוחזקות מופיעות ב„עסקאות שמורות”. „חיפוש IMEI” נמצא במסך המעבדה בשם „חיפוש תיקון / IMEI”.",
+    "published":  "2026-08-20T20:59:33Z"
 }
