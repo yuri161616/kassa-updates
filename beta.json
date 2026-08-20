@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.62",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.62/kassa_repair-19.0.1.39.62.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522237698",
-    "sha256":  "07ba3e58a7c7dcfbe0c3bf415b8477ff2106795c78481f755f24e33bc4742ffc",
-    "size":  11655746,
-    "commit":  "2130c99f25753c2f362b4049b67b3aead7a35aa5",
-    "files_digest":  "20822b5c155cc225a7c593e485d7d1e2cb9e57328c5a5dc181aabc3a898307ad",
+    "version":  "19.0.1.39.63",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.63/kassa_repair-19.0.1.39.63.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522264084",
+    "sha256":  "5e3cf16d0f2c737b042ddae630e00a131c6d7f5c73c23f6b8bd4875c296633d0",
+    "size":  11656780,
+    "commit":  "9f0750dbc27e3dd7ccce42b6fb51d3143040549d",
+    "files_digest":  "ed7fbbae7b641292503f0d6775763dfd2b48f74bcd90313a4a3c44b99717398d",
     "required":  false,
-    "notes_he":  "התמונה הזרה «Your logo» ירדה ממסך הכניסה. ברגע שתעלה סמל משלך לעסק — הוא יופיע שם מעצמו.",
-    "published":  "2026-08-20T12:43:10Z"
+    "notes_he":  "שורת «לקוח מזדמן» הוסרה — היא רק שכפלה את החיפוש שמעליה. שורת «חפש לפי שם או טלפון» גדלה, קיבלה מסגרת כחולה וסמל זכוכית מגדלת, כדי שיהיה ברור מיד שזו שורת חיפוש לקוח.",
+    "published":  "2026-08-20T13:06:37Z"
 }
