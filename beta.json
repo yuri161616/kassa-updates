@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.69",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.69/kassa_repair-19.0.1.39.69.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522518982",
-  "sha256": "5c04d33d6afb54a219f06cbcdf5c0b4c1a593560a8ca74ded9f366462b01f09c",
-  "size": 11688022,
-  "commit": "628def070ccef52927b2974f511f6b45b569dd59",
-  "files_digest": "fed00bd6d4ec4501e8dded29574f65feb688e7178240bfa3a58e372187c76639",
-  "required": false,
-  "notes_he": "בדיקת רצף המסמכים פועלת שוב ב־Odoo 19. במקרה של תקלה מוצגת הודעה מסודרת עם כפתור ניסיון נוסף.",
-  "published": "2026-08-20T16:46:54Z"
+    "version":  "19.0.1.39.70",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.70/kassa_repair-19.0.1.39.70.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522540493",
+    "sha256":  "43fe64cf778d01a7da4110499edf48459f2dd75de01099f9d915ba7a040266c4",
+    "size":  11662837,
+    "commit":  "c0c857c34e3b885cd7290b20ad3d89c136f5c75b",
+    "files_digest":  "c7432082a321628f39998ef71e701501798aaa2895bfe37edc8896e2ebeb5d4b",
+    "required":  false,
+    "notes_he":  "במסך התשלום כפתור היציאה קיבל חץ וכיתוב «חזרה למכירה» במקום «חזור» — עכשיו רואים מיד איך חוזרים לסל.",
+    "published":  "2026-08-20T17:07:07Z"
 }
