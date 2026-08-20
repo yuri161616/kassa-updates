@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.61",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.61/kassa_repair-19.0.1.39.61.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522211794",
-    "sha256":  "7c13e3cfc94cb6be42732c7b0d4e43b07072c7ac704134fa2e934ef121b72b61",
-    "size":  11655369,
-    "commit":  "10bc807437691d887d8ba88ea1bd64af1a54b44a",
-    "files_digest":  "ab2ae8af11ecd293ea8fd9885380ceb5a3967d2304a817b7b7341a768533a358",
+    "version":  "19.0.1.39.65",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.65/kassa_repair-19.0.1.39.65.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522317842",
+    "sha256":  "35e14d595c7ba878ac4d71db4b083a43ef6c2aa75eb29a93455d967d75644b66",
+    "size":  11658494,
+    "commit":  "b7f4879fadd2f25eaa0d486134a15bc8226ba15b",
+    "files_digest":  "3176240ce8ccf6745c86ce2870c9e118d87dc4ad7f03045967b040305be39d65",
     "required":  false,
-    "notes_he":  "מסך הכניסה: כל הכיתובים בעברית, שם החלון MAXIMA במקום Odoo, וההרשמה העצמית נסגרה — רק מי שהוזמן יכול להיכנס. איפוס סיסמה נשאר.",
-    "published":  "2026-08-20T12:17:47Z"
+    "notes_he":  "שורת «חפש מוצרים» תוקנה: קודם הופיעה בתוכה תיבה לבנה נוספת עם מסגרת משלה, והשורה נראתה עקומה. עכשיו זו תיבה אחת בגובה הנכון.",
+    "published":  "2026-08-20T13:51:31Z"
 }
