@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.63",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.63/kassa_repair-19.0.1.39.63.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522264084",
-    "sha256":  "5e3cf16d0f2c737b042ddae630e00a131c6d7f5c73c23f6b8bd4875c296633d0",
-    "size":  11656780,
-    "commit":  "9f0750dbc27e3dd7ccce42b6fb51d3143040549d",
-    "files_digest":  "ed7fbbae7b641292503f0d6775763dfd2b48f74bcd90313a4a3c44b99717398d",
+    "version":  "19.0.1.39.64",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.64/kassa_repair-19.0.1.39.64.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522286302",
+    "sha256":  "da37ac62ef30ff814b588cd88e36717d4d4b6c21696641147f0641bcae89462e",
+    "size":  11657029,
+    "commit":  "b6bc8da2440818e7aa3e3273690f69c263decd43",
+    "files_digest":  "d4fe593aa2efc3ef4f4f362b4baf4cf5394f6a3cea791dd4eac845efee12b941",
     "required":  false,
-    "notes_he":  "שורת «לקוח מזדמן» הוסרה — היא רק שכפלה את החיפוש שמעליה. שורת «חפש לפי שם או טלפון» גדלה, קיבלה מסגרת כחולה וסמל זכוכית מגדלת, כדי שיהיה ברור מיד שזו שורת חיפוש לקוח.",
-    "published":  "2026-08-20T13:06:37Z"
+    "notes_he":  "שורת «הנחה לכל החשבון» הייתה קצרה משאר השורות בעמודת התשלום — עכשיו כולן מסתיימות באותו קו.",
+    "published":  "2026-08-20T13:24:05Z"
 }
