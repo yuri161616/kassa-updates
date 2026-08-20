@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.84",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.84/kassa_repair-19.0.1.39.84.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522826739",
-  "sha256": "3fa9ff7634733b4dc476db98b2ca6d12edac21db48f654f7b4cb1a1a8f568518",
-  "size": 11690929,
-  "commit": "f3647e8c8d4cf9c6604d515bd04717dcd351193b",
-  "files_digest": "84a5a9240fd4aa66354f9a85fc3a21e8fe83e8a7b7a4eab651537e3fbb101542",
+  "version": "19.0.1.39.85",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.85/kassa_repair-19.0.1.39.85.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522838440",
+  "sha256": "93f7511c4341e22bd765aba431f6df3931cef1c20540e2592279c1ecb1b1faa8",
+  "size": 11691273,
+  "commit": "9d5521e7d9bcf0c1f230975aca2fc88d000e3384",
+  "files_digest": "bdbb89fc50a018cb15a1964eed22a673411278820af4fd89d9cb0234d17e78a4",
   "required": false,
-  "notes_he": "במסך מסירת מכשיר ותשלום הוסר הזמן הכפול שהופיע מתחת לסטטוס. עמודת הזמן היחידה נקראת כעת „זמן במעבדה” ומציגה את הזמן הכולל מאז קבלת המכשיר.",
-  "published": "2026-08-20T21:43:59Z"
+  "notes_he": "בבחירת לקוח למכירה ניתן כעת ללחוץ בכל מקום בשורת הלקוח כדי לבחור אותו מיד. כפתור „בחר” הוסר, וכפתור „כרטיס” ממשיך לפתוח את פרטי הלקוח בלי לבחור אותו.",
+  "published": "2026-08-20T21:56:28Z"
 }
