@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.73",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.73/kassa_repair-19.0.1.39.73.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522718436",
-  "sha256": "d05c2f0320a611d1dd316212ac2a2a6afdc3a9c15860d9734e69d64a6cc87871",
-  "size": 11690840,
-  "commit": "543f5d123f8398d24c7a8405d9d9905d540114fe",
-  "files_digest": "6e2a9e79f241a4714a359a7dcb53e13df7ba54ee4320b6602dadab98655f0939",
+  "version": "19.0.1.39.74",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.74/kassa_repair-19.0.1.39.74.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522737367",
+  "sha256": "9493c0e603b31030c94f12294b9adfeb0af1708bc7923a8cdb11ef9da0ece93c",
+  "size": 11690281,
+  "commit": "6dc02e8a6a56e618286e9d80b619b1560d852937",
+  "files_digest": "9ac6d14f4560a1577ec81401d4f1dcd37451e067d2e15adf10ba989ec7d448d9",
   "required": false,
-  "notes_he": "בכרטיסי החיפוש של מסירת מכשיר שם הלקוח והטלפון מוצגים כעת בשורה העליונה. מספר התיקון WH/RO עבר לשורה התחתונה לצד פרטי המכשיר והסטטוס.",
-  "published": "2026-08-20T19:50:15Z"
+  "notes_he": "מסירת מכשיר פועלת כעת במסך אחד: כל תוצאת חיפוש מציגה מיד את פרטי הלקוח, המכשיר, סטטוס המעבדה, העבודה, האחריות, המקדמה והיתרה, עם כפתור הוספה לחשבון. אין עוד צורך ללחוץ על „לחץ לבחירה” ולפתוח מסך נוסף.",
+  "published": "2026-08-20T20:10:14Z"
 }
