@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.57",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.57/kassa_repair-19.0.1.39.57.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522115458",
-    "sha256":  "7460e40aad35c0661000ef57dd367d0281b071b96f062648dcb73a0e52f7d6e7",
-    "size":  11646779,
-    "commit":  "578d0b9b1a59a5da89041707afcebb25ccbf2c7a",
-    "files_digest":  "c4d8e32e4df07e6c5e214044fc55bc1d3a51061384533a9597186dfee95ecc0f",
+    "version":  "19.0.1.39.58",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.58/kassa_repair-19.0.1.39.58.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/522125492",
+    "sha256":  "5603775513f0d3842bfd53e6e3de2c41c0de1b4cf6715bfbe08e5fa160d7e8c3",
+    "size":  11647070,
+    "commit":  "eb364ab552d3210a1cbae15d5e850e0a2f8a85bf",
+    "files_digest":  "2c11491525c71c0418d900524e31fb1f7e0d86c96f0fbc1a0b1020096ce2150a",
     "required":  false,
-    "notes_he":  "תאריכים בכל מסכי הקופה מוצגים לפי הסדר הישראלי: יום/חודש/שנה — בלי תלות בשפת הדפדפן.",
-    "published":  "2026-08-20T10:38:58Z"
+    "notes_he":  "תוקן: הקווים בשדות התאריך עמדו בצד הלא נכון. תאריכים מוצגים כעת נכון: יום/חודש/שנה.",
+    "published":  "2026-08-20T10:49:28Z"
 }
