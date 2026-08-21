@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.89",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.89/kassa_repair-19.0.1.39.89.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/523386503",
-    "sha256":  "b0206afe6e8d7490dc3c87364878208c32c57fa59e23e8821b38c65d78e3e9f2",
-    "size":  11707060,
-    "commit":  "c39a7ddc338f1d1cc642b289e0a637597a99b884",
-    "files_digest":  "1846b2dd8e2102bf2fd6bd811c4f6c77f885444fef6192c380301204148a2792",
+    "version":  "19.0.1.39.90",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.90/kassa_repair-19.0.1.39.90.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/523397984",
+    "sha256":  "d09d1056704ca42dd7f131993cd1f55f51cfbb70f94080f5ca4d6d50aa805a51",
+    "size":  11707798,
+    "commit":  "3f146137229a42d41b44c6330b297fb6db4fbec0",
+    "files_digest":  "3da2f46b5a5012ad54e788b6600c50496f856fc31a268914d5639a4fd3cada19",
     "required":  false,
-    "notes_he":  "תיקון להפעלת מעקב הצ׳קים:\r\n· אמצעי תשלום שבשמו «צ׳ק» מתחיל להיקלט כצ׳ק ברגע שיוצרים אותו, בלי להמתין לעדכון הבא.\r\n· בגרסה הקודמת הסימון הגיע רק בזמן העדכון — ולכן אמצעי שנוצר אחריו נשאר בלי מעקב.\r\n\r\nתזכורת: להוספת אמצעי תשלום «צ׳ק» לקופה צריך שהמשמרת תהיה סגורה — כך דורש Odoo.",
-    "published":  "2026-08-21T07:18:30Z"
+    "notes_he":  "תיקון חשוב לאמצעי התשלום:\r\n· «פרטי הצ׳ק» ייפתח עכשיו באמת — עד כה הקופה כלל לא קיבלה את הסימון שהאמצעי הוא צ׳ק.\r\n· תשלומים (רסרוצ׳קה) חוזרים לעבוד: השאלה «בכמה תשלומים?» לא נפתחה אף פעם, כי הסימון לא הגיע לדפדפן.\r\n  לפי הבדיקה, בכל ההיסטוריה לא נרשמה אף עסקה בתשלומים.\r\n\r\nבנוסף הוגדרו בחנות: יומן «צ׳קים» ואמצעי תשלום «צ׳ק».\r\nכדי לחבר אותו לקופה צריך שהמשמרת תהיה סגורה.",
+    "published":  "2026-08-21T07:29:07Z"
 }
