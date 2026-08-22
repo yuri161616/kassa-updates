@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.93",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.93/kassa_repair-19.0.1.39.93.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/524844344",
-    "sha256":  "24983c456925107150aafaeed9146049eb6732e94b0655264e39b0b631919983",
-    "size":  11713974,
-    "commit":  "5637c4304ac2e51322d46b449585ea671946bee1",
-    "files_digest":  "1b618b27a61d0ddfb288cd6f074f8fdbb5a256720de0fa257302ac4b0a6bde6f",
+    "version":  "19.0.1.39.94",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.94/kassa_repair-19.0.1.39.94.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/524854186",
+    "sha256":  "09332210ae44c1a26e00332ae93daa41ae7046b70ae4bb3bbbe9c9b527c3a650",
+    "size":  11714339,
+    "commit":  "781f83cd93a0ef0faecc6888ecc252c3d0849892",
+    "files_digest":  "567f16f8e4252b53c75ef1c72cecebeebcfcededbfa21cb2ffa06b1ff39cfae7",
     "required":  false,
-    "notes_he":  "התראה אוטומטית על עדכון חדש מופיעה בפס כתום בראש הקופה. הבדיקה מתבצעת בפתיחה וכל 30 דקות, וההתקנה נשארת ידנית מתוך הגדרות קופה ← מערכת.",
-    "published":  "2026-08-22T08:43:01Z"
+    "notes_he":  "תאריך הלידה בכרטיס עובד מוצג בפורמט ישראלי ברור ומוגבל לטווח הגיוני: מ־01/01/1950 ועד היום.",
+    "published":  "2026-08-22T08:56:11Z"
 }
