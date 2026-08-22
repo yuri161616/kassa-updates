@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.92",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.92/kassa_repair-19.0.1.39.92.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/523451447",
-    "sha256":  "a654b7fcff8f10a03627f5ebe8bb1e992906e2b6b6a1828771b4801caffccfd9",
-    "size":  11708813,
-    "commit":  "109b46b5f540cef38645059072351a44e2b5baa2",
-    "files_digest":  "641b32fcb28bd2261c17064767b8fb9aaa15934320a9b14b76de3360b7bfae52",
+    "version":  "19.0.1.39.93",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.93/kassa_repair-19.0.1.39.93.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/524844344",
+    "sha256":  "24983c456925107150aafaeed9146049eb6732e94b0655264e39b0b631919983",
+    "size":  11713974,
+    "commit":  "5637c4304ac2e51322d46b449585ea671946bee1",
+    "files_digest":  "1b618b27a61d0ddfb288cd6f074f8fdbb5a256720de0fa257302ac4b0a6bde6f",
     "required":  false,
-    "notes_he":  "כפתור «צ׳ק» מופיע עכשיו גם בפס התשלום שליד הסל, לא רק במסך התשלום.\nהפס הציג עד כה ארבעה אמצעי תשלום בלבד, והחמישי נחתך.\nלצ׳ק יש כפתור משלו עם סמל מסמך, כדי שלא יתבלבל עם «ביט».\n\nתיקון נוסף: תג המשמרת בשורה העליונה הראה לפעמים «אין משמרת פתוחה» בזמן\nשהמשמרת פתוחה — הסימן נלקח פעם אחת בעת טעינת הדף. עכשיו הוא מדווח את המצב האמיתי.\n\nלאחר העדכון יש לרענן את דף הקופה (F5).",
-    "published":  "2026-08-21T08:21:32Z"
+    "notes_he":  "התראה אוטומטית על עדכון חדש מופיעה בפס כתום בראש הקופה. הבדיקה מתבצעת בפתיחה וכל 30 דקות, וההתקנה נשארת ידנית מתוך הגדרות קופה ← מערכת.",
+    "published":  "2026-08-22T08:43:01Z"
 }
