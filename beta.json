@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.96",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.96/kassa_repair-19.0.1.39.96.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/527788195",
-  "sha256": "dcc0cf7fa755777cdd713c84e0fc5f83f5672cbe701dbeff53cacd442b762b8f",
-  "size": 11737439,
-  "commit": "be197cdd4e2a6153ec15f61d7a1332af777ba9aa",
-  "files_digest": "01f0cb2df81e9441ad8a56a740a9d458c99fa0ff1d7b43b1a8333660b5232e1f",
+  "version": "19.0.1.39.97",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.97/kassa_repair-19.0.1.39.97.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/527851744",
+  "sha256": "073ef3b97559014046242ffe1123a49b133bc6e191d3231e84b91d0c48328e5f",
+  "size": 11738883,
+  "commit": "df4adf3148952b571aa8736d3baba8d54fbb9015",
+  "files_digest": "31de0eaa65fab35cf94eb6290859a51de07ac02f9e595110be32418f32c02ca8",
   "required": false,
-  "notes_he": "כפתור „בית” מחזיר כעת תמיד למסך המכירה ושומר את העגלה הפעילה.",
-  "published": "2026-08-24T15:21:34Z"
+  "notes_he": "תיקוני קופה: כפתור הבית חוזר למסך המכירה; הודעת העדכון ניתנת לסגירה ונעלמת לאחר ההתקנה; בבחירת מוכר מוצגים רק עובדים שנמצאים במשמרת, עם מעבר ישיר לשעון הנוכחות כשאין עובד זמין.",
+  "published": "2026-08-24T16:13:47Z"
 }
