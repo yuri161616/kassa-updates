@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.95",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.95/kassa_repair-19.0.1.39.95.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/524880161",
-    "sha256":  "753482aee1cee79f612e0640629d23be8035d01b58c2269e5498ee341447097b",
-    "size":  11714756,
-    "commit":  "f57b330f498772b7161ddc866ea0ae3cff8d4777",
-    "files_digest":  "f0370b7d3b9a08ea259f3d8b253a8a1324539f729b9ac91a29f5602fd7977c53",
-    "required":  false,
-    "notes_he":  "הורדת Excel ממרכז השליטה העסקי דורשת קוד מנהל מאומת. ללא קוד מוגדר, עם קוד שגוי או ללא חיבור — הקובץ אינו יורד.",
-    "published":  "2026-08-22T09:28:23Z"
+  "version": "19.0.1.39.97",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.97/kassa_repair-19.0.1.39.97.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/527851744",
+  "sha256": "073ef3b97559014046242ffe1123a49b133bc6e191d3231e84b91d0c48328e5f",
+  "size": 11738883,
+  "commit": "df4adf3148952b571aa8736d3baba8d54fbb9015",
+  "files_digest": "31de0eaa65fab35cf94eb6290859a51de07ac02f9e595110be32418f32c02ca8",
+  "required": false,
+  "notes_he": "תיקוני קופה: כפתור הבית חוזר למסך המכירה; הודעת העדכון ניתנת לסגירה ונעלמת לאחר ההתקנה; בבחירת מוכר מוצגים רק עובדים שנמצאים במשמרת, עם מעבר ישיר לשעון הנוכחות כשאין עובד זמין.",
+  "published": "2026-08-24T16:13:47Z"
 }
