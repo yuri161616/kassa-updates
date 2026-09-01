@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.97",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.97/kassa_repair-19.0.1.39.97.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/527851744",
-  "sha256": "073ef3b97559014046242ffe1123a49b133bc6e191d3231e84b91d0c48328e5f",
-  "size": 11738883,
-  "commit": "df4adf3148952b571aa8736d3baba8d54fbb9015",
-  "files_digest": "31de0eaa65fab35cf94eb6290859a51de07ac02f9e595110be32418f32c02ca8",
-  "required": false,
-  "notes_he": "תיקוני קופה: כפתור הבית חוזר למסך המכירה; הודעת העדכון ניתנת לסגירה ונעלמת לאחר ההתקנה; בבחירת מוכר מוצגים רק עובדים שנמצאים במשמרת, עם מעבר ישיר לשעון הנוכחות כשאין עובד זמין.",
-  "published": "2026-08-24T16:13:47Z"
+    "version":  "19.0.1.39.98",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.98/kassa_repair-19.0.1.39.98.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/540224690",
+    "sha256":  "10a75f56386aa23821036334f3d3b58a47a191a66e35e0fd036b739c05268f80",
+    "size":  11713618,
+    "commit":  "ca6f0ec84154dc6e48d51bbab29c69255d9870f1",
+    "files_digest":  "94b3dbdfcdea358ed5ec13f35b2b43d66a5b7a757b251eb5f5ea903d2ddfb496",
+    "required":  false,
+    "notes_he":  "אחריות המוצר נקבעת עכשיו בעת יצירת הכרטיס:\n· במסך «מוצר חדש» נוסף שדה «אחריות החנות» עם כפתורים 0 / 3 / 6 / 12 / 24 חודשים.\n· גם בקליטת סחורה מספק — שם המכשיר נכנס למלאי בפועל.\n· האחריות שנרשמה בכרטיס מודפסת בקבלה ומופיעה בכרטיס הלקוח.\n\nעד כה אפשר היה להגדיר אותה רק במסך הניהול של Odoo, ולכן לרוב המוצרים\nלא הוגדרה אחריות כלל. בעת המכירה עדיין אפשר לשנות את הזמן לפריט מסוים.\n\nלאחר העדכון יש לרענן את דף הקופה (F5).",
+    "published":  "2026-09-01T22:21:27Z"
 }
