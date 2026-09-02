@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.100",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.100/kassa_repair-19.0.1.39.100.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/540870022",
-    "sha256":  "35affc168dd76a4c684e0a964659edabae13c5dae2a451068528f4dc47557f7c",
-    "size":  11721312,
-    "commit":  "f60531530f93fa51b858b911046cdbf82f03b9c5",
-    "files_digest":  "88210b7db32494c32f173f20a2b040be6125df349c7b631261050744bac7ac65",
+    "version":  "19.0.1.39.101",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.101/kassa_repair-19.0.1.39.101.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/540899871",
+    "sha256":  "558673b1e933a9ab422f552e6222d2644dbad1b0521162fe20a477537904d8a5",
+    "size":  11721530,
+    "commit":  "9490c64aa60c0a2658650f123660de70069a0a47",
+    "files_digest":  "ace52bded14dde1f9640b166343ffec94cf9cf677e289f890c607552d071b053",
     "required":  false,
-    "notes_he":  "תיקון במעקב הצ׳קים:\n· צ׳ק שנקלט בלי פרטים (או לפני התיקון) לא הופיע ברשימת «ממתינים». עכשיו כל צ׳ק שהתקבל\n  בקופה נכנס לרשימה מיד, גם אם הקופאי דילג על חלון הפרטים.\n· רשומות שכבר נשמרו כך מיושרות אוטומטית בעדכון.\n\nלאחר העדכון יש לרענן את דף הקופה (F5).",
-    "published":  "2026-09-02T08:33:20Z"
+    "notes_he":  "מסך המלאי: חותמת הדוח למעלה מציגה עכשיו את מספר העמודים האמיתי של הטבלה\n(מנות של 120 שורות), במקום «עמוד 1 מתוך 1» קבוע.\nכל המספרים במסך נבדקו מול בסיס הנתונים ונמצאו תואמים.",
+    "published":  "2026-09-02T08:58:30Z"
 }
