@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.99",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.99/kassa_repair-19.0.1.39.99.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/540848919",
-    "sha256":  "1d417d3916e554cf9e82464a42056b8bbeb4d384ddd423dc1df6ce428f4628f3",
-    "size":  11720298,
-    "commit":  "1e83700c5e20158a6213fb1d82dd321f72bad1aa",
-    "files_digest":  "208bb55861bb4235de67c955c54ef3a4a513096fbd7a1b6045f5464adb6b0955",
+    "version":  "19.0.1.39.100",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.100/kassa_repair-19.0.1.39.100.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/540870022",
+    "sha256":  "35affc168dd76a4c684e0a964659edabae13c5dae2a451068528f4dc47557f7c",
+    "size":  11721312,
+    "commit":  "f60531530f93fa51b858b911046cdbf82f03b9c5",
+    "files_digest":  "88210b7db32494c32f173f20a2b040be6125df349c7b631261050744bac7ac65",
     "required":  false,
-    "notes_he":  "ניקוי שאריות של Odoo מהקופה:\n· בתפריט ≡ הוסר «Backend» (הוביל לממשק Odoo); «Reload Data» וחלון הרענון — בעברית.\n· בשורה העליונה נשאר מזהה קופאי אחד (הוסר אווטאר כפול), ולכפתור הנעילה הסבר בעברית.\n· לחיצה ארוכה על מוצר פותחת את תיק המוצר שלנו במקום חלון «Product Info» באנגלית.\n· לחיצה על טלפון עם IMEI: בחירת היחידה בעברית; יחידה אחת נבחרת לבד, אין יחידות — הודעה ברורה.\n· 43 הודעות מערכת של Odoo שהופיעו באנגלית (פתיחת משמרת, שגיאות, שליחת קבלה במייל, יומן, תנועות מזומן) — עכשיו בעברית.\n\nלאחר העדכון יש לרענן את דף הקופה (F5).",
-    "published":  "2026-09-02T08:16:15Z"
+    "notes_he":  "תיקון במעקב הצ׳קים:\n· צ׳ק שנקלט בלי פרטים (או לפני התיקון) לא הופיע ברשימת «ממתינים». עכשיו כל צ׳ק שהתקבל\n  בקופה נכנס לרשימה מיד, גם אם הקופאי דילג על חלון הפרטים.\n· רשומות שכבר נשמרו כך מיושרות אוטומטית בעדכון.\n\nלאחר העדכון יש לרענן את דף הקופה (F5).",
+    "published":  "2026-09-02T08:33:20Z"
 }
