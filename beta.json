@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.101",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.101/kassa_repair-19.0.1.39.101.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/540899871",
-    "sha256":  "558673b1e933a9ab422f552e6222d2644dbad1b0521162fe20a477537904d8a5",
-    "size":  11721530,
-    "commit":  "9490c64aa60c0a2658650f123660de70069a0a47",
-    "files_digest":  "ace52bded14dde1f9640b166343ffec94cf9cf677e289f890c607552d071b053",
+    "version":  "19.0.1.39.102",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.102/kassa_repair-19.0.1.39.102.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/540915317",
+    "sha256":  "2131e3e9e70d3235360077cc9aa80088876b159e644c10580a5a39423c52430c",
+    "size":  11721818,
+    "commit":  "e5712bd35ef08e2b95442b2e2740cdd38a676558",
+    "files_digest":  "9b39c989f78b0a25071ebb2d5a9ff0cb1fa19297d6e662ea559f6ecb9327065d",
     "required":  false,
-    "notes_he":  "מסך המלאי: חותמת הדוח למעלה מציגה עכשיו את מספר העמודים האמיתי של הטבלה\n(מנות של 120 שורות), במקום «עמוד 1 מתוך 1» קבוע.\nכל המספרים במסך נבדקו מול בסיס הנתונים ונמצאו תואמים.",
-    "published":  "2026-09-02T08:58:30Z"
+    "notes_he":  "חלונות הקופה:\n· כל חלון עבודה (מוצר חדש, קבלת סחורה, כרטיס לקוח, מסירת מכשיר, טרייד-אין, דוחות ועוד — 62 חלונות)\n  נפתח עכשיו על כל המסך.\n· טפסים קצרים נשארים חלון קטן במרכז: פרטי צ׳ק, הקפה, תשלומים, הערה לקבלה, קוד שובר,\n  שאלות «כן/לא», הוספת טכנאי, שעון נוכחות, פריט כללי, וקוד מנהל.\n\nלאחר העדכון יש לרענן את דף הקופה (F5).",
+    "published":  "2026-09-02T09:11:54Z"
 }
