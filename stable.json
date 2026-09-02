@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.109",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.109/kassa_repair-19.0.1.39.109.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/541469384",
-    "sha256":  "b3605c78437c63d5891caa9d06a57fde2663c96342919d27c73ba0c7415c372a",
-    "size":  11731535,
-    "commit":  "4aa4d892ee7f8db899a9d63560ed73ff46ffc000",
-    "files_digest":  "8ac7dc5f06de04fce767ac7793b5918a916e36f1ca451b6576de8bab873909ef",
+    "version":  "19.0.1.39.110",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.110/kassa_repair-19.0.1.39.110.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/541642789",
+    "sha256":  "f07e8e4e4a2aaeb6a16e3b42cf30d2bb7542cc05fb95f32b531c4abd67263e53",
+    "size":  11731926,
+    "commit":  "46d13c37cbef1e2a1a9638d48be98181fc60cdaf",
+    "files_digest":  "b3023bcb5e2bd4d6dc6f6640fe95d7461a8819077c7b5034975c8043b50d5ffb",
     "required":  true,
-    "notes_he":  "עדכוני תוכנה:\n· הכפתור «התקן עדכון» לא מוותר אחרי 8 שניות — הקופה ממתינה עד 30 שניות למתקין, והמתקין מדווח מיד עם ההפעלה (עוד לפני הפנייה לאינטרנט). ההודעה «Windows לא הפעיל את ההתקנה» ברשת איטית הייתה שגויה.\n· אם התקנה קודמת נתקעה, הקופה סוגרת אותה לפני שמתחילה מחדש; המסך אומר במפורש «ההתקנה הקודמת לא הסתיימה» במקום «מתקין גרסה…».\n· הודעות «יש הזמנות פתוחות» / «אין אינטרנט» מגיעות בלשון המתקין עצמו.\nלאחר העדכון יש לרענן את דף הקופה (F5).",
-    "published":  "2026-09-02T16:45:07Z"
+    "notes_he":  "רשימת לקוחות (בחירה למכירה):\n· הכפתור «כרטיס» בכל שורה נקרא עכשיו «כל הפרטים» — הוא פותח את כל ההיסטוריה של הלקוח: קניות, תיקונים, יתרה ואחריות.\n· מעל הרשימה שורת הסבר: לחיצה על השורה בוחרת את הלקוח למכירה; «כל הפרטים» פותח את הכרטיס.\nלאחר העדכון יש לרענן את דף הקופה (F5).",
+    "published":  "2026-09-02T19:17:33Z"
 }
