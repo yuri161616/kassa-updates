@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.117",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.117/kassa_repair-19.0.1.39.117.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/542889432",
-    "sha256":  "297ff788b3e6c9562800b8a37eae41d801639349dca0197ae16c51c3a8e2c53f",
-    "size":  11754802,
-    "commit":  "fc6e3a265215df7ffe7a83e9c452f61532799b08",
-    "files_digest":  "26098bdf2471da06f0eef253d058326553a6870f7cee63e6f27e8898270d8662",
-    "required":  true,
-    "notes_he":  "תיקון: «פתח סניף» נכשל ב-.116 עם «אין חיבור» — היומנים של הסניף נוצרו בלי הרשאה; עכשיו הסניף נפתח.\nהודעות שגיאה בהגדרות → מערכת מציגות את הסיבה מהשרת במקום «אין חיבור» סתמי.",
-    "published":  "2026-09-03T14:27:28Z"
+  "version": "19.0.1.39.118",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.118/kassa_repair-19.0.1.39.118.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/543002829",
+  "sha256": "c9f481b07a8ac1323582bf556c33477d03a359d692447f6310bd9ac7637832aa",
+  "size": 11783929,
+  "commit": "fb0bc551071044b52c4fdaaab01facdc12feeee9",
+  "files_digest": "b00a4f71b1091d1236a6864c37fad7ec2792e491a22fd7b3d5c685366850e553",
+  "required": false,
+  "notes_he": "תיקון שעון הנוכחות: השעון ושעת הכניסה מוצגים באותו אזור זמן של המחשב. השעון מתעדכן בכל שנייה.",
+  "published": "2026-09-03T16:06:16Z"
 }
