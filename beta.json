@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.119",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.119/kassa_repair-19.0.1.39.119.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/543079534",
-  "sha256": "ba3dc739d1126ef16b87462d405b7f1cb36fc77940e0ddbbca4f797df406bb28",
-  "size": 11783810,
-  "commit": "ee87e04ab820eeb168d5240551db4c5b839b6bdd",
-  "files_digest": "80b64ac7f9611e07137c34021ebb768313a7619a9c75f06a39c12c61821326b5",
+  "version": "19.0.1.39.120",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.120/kassa_repair-19.0.1.39.120.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/543112764",
+  "sha256": "ce953185a22db2550b03a96276565f9dbddd4d4a23c6072d83fa00cb4722a7fa",
+  "size": 11784391,
+  "commit": "2556f8285d8ddb2180780ded3019bcfa67617b5d",
+  "files_digest": "291609f322b0e3dacea27b068ed431e96e5e48afba144ef1b2c0415eaa0f26ac",
   "required": false,
-  "notes_he": "כעת ניתן לסמן ולהעתיק מספר לקוח, טלפון, IMEI, מספר קבלה וטקסט נוסף במסכי הקופה.",
-  "published": "2026-09-03T17:06:44Z"
+  "notes_he": "לאחר אישור חוב מהקופה הישנה, הלקוח וכפתור „קבל תשלום” מוצגים מיד ומודגשים. רשימת החובות הפעילים אינה נעלמת עוד.",
+  "published": "2026-09-03T17:38:07Z"
 }
