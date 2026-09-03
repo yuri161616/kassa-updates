@@ -6,7 +6,7 @@
   "size": 11783810,
   "commit": "ee87e04ab820eeb168d5240551db4c5b839b6bdd",
   "files_digest": "80b64ac7f9611e07137c34021ebb768313a7619a9c75f06a39c12c61821326b5",
-  "required": false,
+  "required": true,
   "notes_he": "כעת ניתן לסמן ולהעתיק מספר לקוח, טלפון, IMEI, מספר קבלה וטקסט נוסף במסכי הקופה.",
   "published": "2026-09-03T17:06:44Z"
 }
