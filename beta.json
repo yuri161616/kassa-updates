@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.118",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.118/kassa_repair-19.0.1.39.118.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/543002829",
-  "sha256": "c9f481b07a8ac1323582bf556c33477d03a359d692447f6310bd9ac7637832aa",
-  "size": 11783929,
-  "commit": "fb0bc551071044b52c4fdaaab01facdc12feeee9",
-  "files_digest": "b00a4f71b1091d1236a6864c37fad7ec2792e491a22fd7b3d5c685366850e553",
+  "version": "19.0.1.39.119",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.119/kassa_repair-19.0.1.39.119.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/543079534",
+  "sha256": "ba3dc739d1126ef16b87462d405b7f1cb36fc77940e0ddbbca4f797df406bb28",
+  "size": 11783810,
+  "commit": "ee87e04ab820eeb168d5240551db4c5b839b6bdd",
+  "files_digest": "80b64ac7f9611e07137c34021ebb768313a7619a9c75f06a39c12c61821326b5",
   "required": false,
-  "notes_he": "תיקון שעון הנוכחות: השעון ושעת הכניסה מוצגים באותו אזור זמן של המחשב. השעון מתעדכן בכל שנייה.",
-  "published": "2026-09-03T16:06:16Z"
+  "notes_he": "כעת ניתן לסמן ולהעתיק מספר לקוח, טלפון, IMEI, מספר קבלה וטקסט נוסף במסכי הקופה.",
+  "published": "2026-09-03T17:06:44Z"
 }
