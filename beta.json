@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.116",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.116/kassa_repair-19.0.1.39.116.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/542498823",
-    "sha256":  "9231001221f8d0d028b6d717f4cbfa38012bde4310e9e9ed2bfa9c537e9b5470",
-    "size":  11754232,
-    "commit":  "fc48e603947a31adfc52b803bcda2cec6574cb7a",
-    "files_digest":  "a0605c1b74b88cbfedfbc9e4325b25cef91419bfb646e59be178473628530514",
+    "version":  "19.0.1.39.117",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.117/kassa_repair-19.0.1.39.117.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/542889432",
+    "sha256":  "297ff788b3e6c9562800b8a37eae41d801639349dca0197ae16c51c3a8e2c53f",
+    "size":  11754802,
+    "commit":  "fc6e3a265215df7ffe7a83e9c452f61532799b08",
+    "files_digest":  "26098bdf2471da06f0eef253d058326553a6870f7cee63e6f27e8898270d8662",
     "required":  false,
-    "notes_he":  "רשת חנויות (סניפים): הגדרות → מערכת → «סניפים ברשת» — פתיחת סניף בקוד מנהל: חברת‑בת, מחסן, יומנים וקופה ראשונה משלו; מוצרים, מחירים ולקוחות משותפים.\nבמשרד — מתג «הסניף שלי / כל הרשת» (מופיע רק כשיש יותר מסניף אחד).\nכל דוחות המשרד סופרים לפי הסניף של הקופה; ברשת — לפי הבחירה במתג.",
-    "published":  "2026-09-03T09:03:52Z"
+    "notes_he":  "תיקון: «פתח סניף» נכשל ב-.116 עם «אין חיבור» — היומנים של הסניף נוצרו בלי הרשאה; עכשיו הסניף נפתח.\nהודעות שגיאה בהגדרות → מערכת מציגות את הסיבה מהשרת במקום «אין חיבור» סתמי.",
+    "published":  "2026-09-03T14:27:28Z"
 }
