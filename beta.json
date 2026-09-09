@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.120",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.120/kassa_repair-19.0.1.39.120.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/543112764",
-  "sha256": "ce953185a22db2550b03a96276565f9dbddd4d4a23c6072d83fa00cb4722a7fa",
-  "size": 11784391,
-  "commit": "2556f8285d8ddb2180780ded3019bcfa67617b5d",
-  "files_digest": "291609f322b0e3dacea27b068ed431e96e5e48afba144ef1b2c0415eaa0f26ac",
-  "required": false,
-  "notes_he": "לאחר אישור חוב מהקופה הישנה, הלקוח וכפתור „קבל תשלום” מוצגים מיד ומודגשים. רשימת החובות הפעילים אינה נעלמת עוד.",
-  "published": "2026-09-03T17:38:07Z"
+    "version":  "19.0.1.39.122",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.122/kassa_repair-19.0.1.39.122.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/552603714",
+    "sha256":  "e699c630811dd4c0148f9e61d797db77943a9f6df8110093b9a3958f954a2e24",
+    "size":  11778663,
+    "commit":  "fd53067209860f4eda4a86358c3e2ec6681aef57",
+    "files_digest":  "5327f0a5a3c5d67fdac071d5de293ed63164b699e74b75e66b387f7ba3f4b381",
+    "required":  false,
+    "notes_he":  "מנוי: תשלום והשעיה נפרדים; חידוש בלי חודשים מיותרים; הארכה ותשלום נרשמים בבת אחת.\nתשלום שכבר אושר אפשר להשלים עד הסוף, גם אם המנוי נגמר באמצע העסקה.\nהקופה עובדת עד 24 שעות בלי קשר לפאנל, לפי מסמך חתום.\nהיסטוריה והגדרות של קופה מחוברת נשארות זמינות תמיד.\nהתקנה: סיסמה אקראית נפרדת לטכנאי ולמנהל, וקוד PIN נפרד; התקנה חוזרת שומרת על הנתונים והסיסמאות הקיימים.\nרשת חנויות: לכל לקוח מתארח קובץ רישיון ומזהה משלו; בחירת הדיסק ליומן עובדת גם בלי כונן D.",
+    "published":  "2026-09-09T11:14:14Z"
 }
