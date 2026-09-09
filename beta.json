@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.125",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.125/kassa_repair-19.0.1.39.125.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/553087724",
-    "sha256":  "0cb98dec1139016893013622d6fe42d5da2e8a27f26e436809f94a171b5675f2",
-    "size":  11781311,
-    "commit":  "58e5f79f0f461901ef68290a7101039105f264e8",
-    "files_digest":  "3589113f9a98ae836f720136f29ef4717671d3d6c464197716564824c76e7480",
+    "version":  "19.0.1.39.126",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.126/kassa_repair-19.0.1.39.126.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/553446626",
+    "sha256":  "3ebb20f0b589989f96fe933cf5624502bda6b06523ecbb74904f2ee5feaf95bd",
+    "size":  11787850,
+    "commit":  "212ff8ac4b368a16430a5eb8e9b64b8925500b76",
+    "files_digest":  "3916643b6767e50140f7df204f257e2e5dc6ce0626ae8a3c34c2ec8c2a2c9be8",
     "required":  false,
-    "notes_he":  "תוקן: הקופה נפלה בכל מסך עם «משהו השתבש» ועם «לא ניתן לאמת את הרשאת הקופה». הסיבה: מנגנון בדיקת הרישיון קרא לטיימר של הדפדפן בצורה שגויה. עכשיו הקופה נטענת ופועלת כרגיל.\nאם המסך עדיין תקוע אחרי העדכון — רענן פעם אחת (F5).",
-    "published":  "2026-09-09T15:56:26Z"
+    "notes_he":  "חדש: כפתור «תמונות הקבלה» בכרטיס התיקון ובמסך המסירה — פותח את התמונות והחתימה שצולמו בקבלת המכשיר, ישירות בקופה, בלי להיכנס לאדמין. תמונה בלחיצה נפתחת גדול. שימושי במיוחד במסירה, לבירור «המכשיר היה שבור כבר בקבלה».",
+    "published":  "2026-09-09T19:42:36Z"
 }
