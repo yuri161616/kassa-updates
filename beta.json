@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.128",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.128/kassa_repair-19.0.1.39.128.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/555741402",
-  "sha256": "1d2d66b7a76f4782e7ce08ad23fe6c0c7da74501f4b98a12a144d03633ff3177",
-  "size": 11822750,
-  "commit": "db049ae95b57c53920e125f1482093fdb518134f",
-  "files_digest": "b779f6306be566899161d0bbc0ca3544974d2af79548494b81123edd5eb711cf",
+  "version": "19.0.1.39.129",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.129/kassa_repair-19.0.1.39.129.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/555766586",
+  "sha256": "d607ae576b8441f333b9102057652d58d478490a40c55fc1ed7630f934bc1fc4",
+  "size": 11822695,
+  "commit": "e91a534ab9c6743ecd1b60708e634ff1154c4082",
+  "files_digest": "ba0c7c4ec90419659b6541206ca65075192d243d2050aa63c89616a3327151f8",
   "required": false,
-  "notes_he": "שעון נוכחות: סגירה אוטומטית אחרי 12 שעות עם סימון לבדיקת מנהל; תיקון שעות בקוד מנהל ותיעוד הסיבה; תיקון חישוב שעות במשמרת שחוצה חצות. משמרות ישנות שכבר נסגרו נשמרות ללא שינוי.",
-  "published": "2026-09-10T20:12:14Z"
+  "notes_he": "שעון נוכחות: סגירת משמרת אוטומטית אחרי 13 שעות במקום 12. המשמרת מסומנת לבדיקת מנהל; משמרות שכבר נסגרו נשמרות ללא שינוי. נבדקו 12 שעות, רגע לפני 13 שעות, סגירה ב־13 שעות והפעלה מאוחרת של המנגנון.",
+  "published": "2026-09-10T20:28:44Z"
 }
