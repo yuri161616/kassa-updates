@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.126",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.126/kassa_repair-19.0.1.39.126.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/553446626",
-    "sha256":  "3ebb20f0b589989f96fe933cf5624502bda6b06523ecbb74904f2ee5feaf95bd",
-    "size":  11787850,
-    "commit":  "212ff8ac4b368a16430a5eb8e9b64b8925500b76",
-    "files_digest":  "3916643b6767e50140f7df204f257e2e5dc6ce0626ae8a3c34c2ec8c2a2c9be8",
+    "version":  "19.0.1.39.127",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.127/kassa_repair-19.0.1.39.127.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/554239800",
+    "sha256":  "2b72d01db32bebd5b73ede125ee179af91a2d1f2e6c10c759c90c288e3ea9c58",
+    "size":  11789265,
+    "commit":  "f54750ae22bb3c9743baf5398cbaa4661a363cd5",
+    "files_digest":  "be4fbc7822e5a7792554809def5787c501455873d2f72ae6d069963cda53ffda",
     "required":  false,
-    "notes_he":  "חדש: כפתור «תמונות הקבלה» בכרטיס התיקון ובמסך המסירה — פותח את התמונות והחתימה שצולמו בקבלת המכשיר, ישירות בקופה, בלי להיכנס לאדמין. תמונה בלחיצה נפתחת גדול. שימושי במיוחד במסירה, לבירור «המכשיר היה שבור כבר בקבלה».",
-    "published":  "2026-09-09T19:42:36Z"
+    "notes_he":  "כשמקלידים מספר טלפון בקבלת מכשיר — מופיעה מיד רשימת לקוחות שהמספר שלהם מתחיל בספרות שהוקלדו, עם שם, מספר מלא ומספר קניות. בחירה בלקוח ממלאת שם ומספר אוטומטית. עד עכשיו ההשלמה הופיעה רק אחרי הקלדת המספר המלא. אותה לוגיקת «לקוחות לפי ספרות» כמו במסך החלפה באחריות.",
+    "published":  "2026-09-10T04:34:31Z"
 }
