@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.127",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.127/kassa_repair-19.0.1.39.127.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/554239800",
-    "sha256":  "2b72d01db32bebd5b73ede125ee179af91a2d1f2e6c10c759c90c288e3ea9c58",
-    "size":  11789265,
-    "commit":  "f54750ae22bb3c9743baf5398cbaa4661a363cd5",
-    "files_digest":  "be4fbc7822e5a7792554809def5787c501455873d2f72ae6d069963cda53ffda",
-    "required":  false,
-    "notes_he":  "כשמקלידים מספר טלפון בקבלת מכשיר — מופיעה מיד רשימת לקוחות שהמספר שלהם מתחיל בספרות שהוקלדו, עם שם, מספר מלא ומספר קניות. בחירה בלקוח ממלאת שם ומספר אוטומטית. עד עכשיו ההשלמה הופיעה רק אחרי הקלדת המספר המלא. אותה לוגיקת «לקוחות לפי ספרות» כמו במסך החלפה באחריות.",
-    "published":  "2026-09-10T04:34:31Z"
+  "version": "19.0.1.39.128",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.128/kassa_repair-19.0.1.39.128.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/555741402",
+  "sha256": "1d2d66b7a76f4782e7ce08ad23fe6c0c7da74501f4b98a12a144d03633ff3177",
+  "size": 11822750,
+  "commit": "db049ae95b57c53920e125f1482093fdb518134f",
+  "files_digest": "b779f6306be566899161d0bbc0ca3544974d2af79548494b81123edd5eb711cf",
+  "required": false,
+  "notes_he": "שעון נוכחות: סגירה אוטומטית אחרי 12 שעות עם סימון לבדיקת מנהל; תיקון שעות בקוד מנהל ותיעוד הסיבה; תיקון חישוב שעות במשמרת שחוצה חצות. משמרות ישנות שכבר נסגרו נשמרות ללא שינוי.",
+  "published": "2026-09-10T20:12:14Z"
 }
