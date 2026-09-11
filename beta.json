@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.130",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.130/kassa_repair-19.0.1.39.130.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/555801083",
-  "sha256": "027cd9db1767fe6c65f8f5d6d79e2137d697e0b5ebfc8b536ae7ec57b44f0156",
-  "size": 11823121,
-  "commit": "bad4cf1dbdcaf89973de3e1c897a90bf75aade33",
-  "files_digest": "ca5a692a10deb31663ae82f67eaa4432b77cc39368a9c05887bc2ea4898aeb07",
-  "required": false,
-  "notes_he": "טרייד אין: הצהרת הבעלות מוצגת עם תיבת סימון גדולה וטקסט קריא. אפשר ללחוץ על כל השורה, מופיע וי ואישור ברור לאחר הסימון. נבדק במחשב ובמסך צר, כולל הפעלה במקלדת.",
-  "published": "2026-09-10T20:52:33Z"
+    "version":  "19.0.1.39.131",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.131/kassa_repair-19.0.1.39.131.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/556372457",
+    "sha256":  "78865abdc0652627777d211cbf3c3756fd41318b15bb33f415cb543bc62feabf",
+    "size":  11796532,
+    "commit":  "fdd9643bad2af30e26b024ddb202064986013ed5",
+    "files_digest":  "6155f07dcd58c0375b46c9862cdb826d20d0c912887347c0274a90079f9e9453",
+    "required":  false,
+    "notes_he":  "שליחת הודעה למסך הקופה מהפאנל: הבעלים כותב הודעה בכרטיס הקופה (למשל «נא לחדש את המנוי» או «מחר סגור»), והיא מופיעה כפס־הודעה על מסך הקופאי. הקופאי יכול לסגור אותה; היא לא תופיע שוב באותה קופה עד שיישלח מסר חדש או שהבעלים יסיר אותה. ההודעה יכולה רק להציג טקסט — היא אינה משנה מנוי ואינה פותחת נעילה. דרוש גם עדכון שרת הפאנל.",
+    "published":  "2026-09-11T03:20:18Z"
 }
