@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.133",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.133/kassa_repair-19.0.1.39.133.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566321885",
-    "sha256":  "fdd0efe56f42bebadc8227547c353b4f13d62e771111fbec98bc9b09987bdd64",
-    "size":  11801822,
-    "commit":  "fb9168547e7023832517d9a636a5f1df5cab9ebe",
-    "files_digest":  "5172772c7bd4dc11e8a8839deae2b11a94cbfab1593bd1c8c6a9e9e305b5145b",
+    "version":  "19.0.1.39.134",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.134/kassa_repair-19.0.1.39.134.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566342873",
+    "sha256":  "68adc5de93dff5fef7295b52100fe89d13c357c6e0ddb80b6201767d45eac636",
+    "size":  11801982,
+    "commit":  "f0fa1701d82b7a36d1c305198014a0095795999b",
+    "files_digest":  "6ef283716d0c98fed35e740f409267a41f45e2aeb82962992e9047b8a4b28fbd",
     "required":  false,
-    "notes_he":  "כרטיס תיקון: קיצור ההסבר מתחת למועד הגעת החלק למעבדה, ללא חזרה על הכותרת.",
-    "published":  "2026-09-15T19:06:13Z"
+    "notes_he":  "שעון נוכחות: כפתור הוספת עובד חדש ליד השעה, עם אותו טופס ואישור מנהל כמו בכרטיסי העובדים. הרשימה מתעדכנת בחזרה מהטופס.",
+    "published":  "2026-09-15T19:19:27Z"
 }
