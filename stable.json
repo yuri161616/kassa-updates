@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.134",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.134/kassa_repair-19.0.1.39.134.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566342873",
-    "sha256":  "68adc5de93dff5fef7295b52100fe89d13c357c6e0ddb80b6201767d45eac636",
-    "size":  11801982,
-    "commit":  "f0fa1701d82b7a36d1c305198014a0095795999b",
-    "files_digest":  "6ef283716d0c98fed35e740f409267a41f45e2aeb82962992e9047b8a4b28fbd",
-    "required":  false,
-    "notes_he":  "שעון נוכחות: כפתור הוספת עובד חדש ליד השעה, עם אותו טופס ואישור מנהל כמו בכרטיסי העובדים. הרשימה מתעדכנת בחזרה מהטופס.",
-    "published":  "2026-09-15T19:19:27Z"
+  "version": "19.0.1.39.135",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.135/kassa_repair-19.0.1.39.135.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566405799",
+  "sha256": "d715424da21b9e9f9b8dbcd0d99e15de47aeb85dc33df15a8b6b3e1be592851e",
+  "size": 11826072,
+  "commit": "522eb4c0f7a92e41dc092c1a611c336d6d8f1f73",
+  "files_digest": "dfb305af74909852680b262498e10f0fdd92bf81296f3c4d66992c8052fe2b76",
+  "required": false,
+  "notes_he": "הגנה מפני זיכוי בטעות: מקש מינוס אינו הופך כמות במכירה רגילה לשלילית. החזרות מתוך הקבלה המקורית והחלפות ממשיכות לעבוד.",
+  "published": "2026-09-15T19:58:33Z"
 }
