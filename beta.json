@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.136",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.136/kassa_repair-19.0.1.39.136.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566433297",
-  "sha256": "e3ede47c37c19ed99c9e1ad093a2fb4a95fb4988b19cd397d634ee408310f34f",
-  "size": 11827004,
-  "commit": "b364d0b8beb8e8d5c333ade220e98e2e7da20adf",
-  "files_digest": "4d51afbc3ea8d49bf3713a50541ea76f71f8d096a1588894d986ae36d2f67383",
+  "version": "19.0.1.39.137",
+  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.137/kassa_repair-19.0.1.39.137.zip",
+  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566447053",
+  "sha256": "06613838adb438a38e536eb2c35327005862c08e0497da833d187deb8c20504e",
+  "size": 11827092,
+  "commit": "b2ac1efe533436365bd1fb457bb3fb8885cf563d",
+  "files_digest": "1ad4f2203d2b347a974a6a642ff332c90e247e84ad20b13fb54d9276d04d3a47",
   "required": false,
-  "notes_he": "תיקון מינוס במסך התשלום: תשלום במכירה רגילה אינו יכול להפוך לשלילי; קלט המקלדת מתאפס בכניסה למסך. החזרות אמיתיות ממשיכות לעבוד.",
-  "published": "2026-09-15T20:16:43Z"
+  "notes_he": "תיקון תשלום מפוצל: הסכומים מתעדכנים לפני אישור העסקה כדי למנוע שגיאת שינוי פרטים בתשלום תקין במזומן ובאשראי. ההגנות על שינויים אמיתיים בעסקה נשמרו.",
+  "published": "2026-09-15T20:24:28Z"
 }
