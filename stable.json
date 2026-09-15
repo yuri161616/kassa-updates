@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.132",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.132/kassa_repair-19.0.1.39.132.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566305686",
-    "sha256":  "24cd33a66e5d42c2aa330b07722e7b56298e72743b67c0387dd73631410b6c8e",
-    "size":  11801849,
-    "commit":  "48fcdb4be2d0e1f1e314d17efaa1669ee8736e66",
-    "files_digest":  "603164ed65551b889fea0d1b26bc6b6e7727509da1abf8884f087b2025b89513",
+    "version":  "19.0.1.39.133",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.133/kassa_repair-19.0.1.39.133.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566321885",
+    "sha256":  "fdd0efe56f42bebadc8227547c353b4f13d62e771111fbec98bc9b09987bdd64",
+    "size":  11801822,
+    "commit":  "fb9168547e7023832517d9a636a5f1df5cab9ebe",
+    "files_digest":  "5172772c7bd4dc11e8a8839deae2b11a94cbfab1593bd1c8c6a9e9e305b5145b",
     "required":  false,
-    "notes_he":  "הבהרה בכרטיס התיקון: מועד ההגעה מתייחס לחלק שמגיע מהספק למעבדה, ולא לסיום התיקון או למסירת המכשיר ללקוח.",
-    "published":  "2026-09-15T18:55:36Z"
+    "notes_he":  "כרטיס תיקון: קיצור ההסבר מתחת למועד הגעת החלק למעבדה, ללא חזרה על הכותרת.",
+    "published":  "2026-09-15T19:06:13Z"
 }
