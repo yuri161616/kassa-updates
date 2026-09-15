@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.131",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.131/kassa_repair-19.0.1.39.131.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/556372457",
-    "sha256":  "78865abdc0652627777d211cbf3c3756fd41318b15bb33f415cb543bc62feabf",
-    "size":  11796532,
-    "commit":  "fdd9643bad2af30e26b024ddb202064986013ed5",
-    "files_digest":  "6155f07dcd58c0375b46c9862cdb826d20d0c912887347c0274a90079f9e9453",
+    "version":  "19.0.1.39.132",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.132/kassa_repair-19.0.1.39.132.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566305686",
+    "sha256":  "24cd33a66e5d42c2aa330b07722e7b56298e72743b67c0387dd73631410b6c8e",
+    "size":  11801849,
+    "commit":  "48fcdb4be2d0e1f1e314d17efaa1669ee8736e66",
+    "files_digest":  "603164ed65551b889fea0d1b26bc6b6e7727509da1abf8884f087b2025b89513",
     "required":  false,
-    "notes_he":  "שליחת הודעה למסך הקופה מהפאנל: הבעלים כותב הודעה בכרטיס הקופה (למשל «נא לחדש את המנוי» או «מחר סגור»), והיא מופיעה כפס־הודעה על מסך הקופאי. הקופאי יכול לסגור אותה; היא לא תופיע שוב באותה קופה עד שיישלח מסר חדש או שהבעלים יסיר אותה. ההודעה יכולה רק להציג טקסט — היא אינה משנה מנוי ואינה פותחת נעילה. דרוש גם עדכון שרת הפאנל.",
-    "published":  "2026-09-11T03:20:18Z"
+    "notes_he":  "הבהרה בכרטיס התיקון: מועד ההגעה מתייחס לחלק שמגיע מהספק למעבדה, ולא לסיום התיקון או למסירת המכשיר ללקוח.",
+    "published":  "2026-09-15T18:55:36Z"
 }
