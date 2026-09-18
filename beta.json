@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.140",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.140/kassa_repair-19.0.1.39.140.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/572044140",
-    "sha256":  "efd3bb11705a9950408f759aebcd0d15b0333e2ada7d718751b280e9ec9e4013",
-    "size":  11861011,
-    "commit":  "e851557861728baa2fc8f2b9e46298f2e0ffa483",
-    "files_digest":  "5e8479b9ff3558e09af4b855ae5bc4fa89d31e396458a024d173911991b8a5fb",
-    "required":  false,
+    "version":  "19.0.1.39.141",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.141/kassa_repair-19.0.1.39.141.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/572065857",
+    "sha256":  "7bd679cdc67814329b20007a170f45098f0cd9405b99f2ea83afa681840d0bf0",
+    "size":  11861002,
+    "commit":  "c09e3b0a47a443c0f0f410eb00bf42bc032857f0",
+    "files_digest":  "1d560c58d32d6d16c0f50a0475659d878929a9abfd94ed14cd9a21231354aabc",
+    "required":  true,
     "notes_he":  "שיפורים ותיקונים בקופה.",
-    "published":  "2026-09-18T07:09:24Z"
+    "published":  "2026-09-18T07:22:47Z"
 }
