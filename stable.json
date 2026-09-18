@@ -1,12 +1,12 @@
 {
-  "version": "19.0.1.39.138",
-  "url": "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.138/kassa_repair-19.0.1.39.138.zip",
-  "api_url": "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/566484987",
-  "sha256": "87f3c9190ad2f93aee1c70de55ec425e4c90b1daac33b37ca6c3fbcf88fac0ea",
-  "size": 11827281,
-  "commit": "13f9859a1d33dd0f392241fd222e46d7ae7cce6b",
-  "files_digest": "b1aea681e5606e99d7141e7cb86e93f19e8f281814455cb0349601279ef52727",
-  "required": false,
-  "notes_he": "תיקון בדיקת מזומן ועודף: חשבון 50 ₪ ששולם בשטר של 100 ₪ עם עודף 50 ₪ אינו נחסם. מגבלות המזומן ותשלומים מפוצלים נשמרו.",
-  "published": "2026-09-15T20:48:54Z"
+    "version":  "19.0.1.39.143",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.143/kassa_repair-19.0.1.39.143.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/572112641",
+    "sha256":  "a2d926f20eb6865f0e419965b98dc67d915643ca8aa5de56bc5efd305e06fce6",
+    "size":  11862004,
+    "commit":  "752da6911ab51cdd526f24b2e8d8b82e97176f33",
+    "files_digest":  "e1011ccf2810c0c5fef3608fe0aebc88ab25ccf8d333987ffcf50a54ffdd9e51",
+    "required":  true,
+    "notes_he":  "שיפורים ותיקונים בקופה.",
+    "published":  "2026-09-18T07:50:08Z"
 }
