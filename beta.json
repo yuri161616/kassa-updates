@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.146",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.146/kassa_repair-19.0.1.39.146.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/572687814",
-    "sha256":  "f2e431c0833fde38f93ba27d9e2214ced8aae48a572c3ec19ba886eb286310df",
-    "size":  11894908,
-    "commit":  "85d71c25ab09b6dd3803ed3e8d615369091ad999",
-    "files_digest":  "88da1258b4b7017aec94eaa34ac2dededfeaf1e9d4483dd681b6e76c09f91083",
-    "required":  true,
-    "notes_he":  "משיכת ההיסטוריה מ-NewOrder מהירה עד פי 2: כל צעד שולח שתי בקשות במקביל, בלי לחרוג ממכסת המקור (95 בדקה). כללי הבדיקה לא השתנו: עמוד ריק הוא הסוף היחיד, סירוב נרשם כפער ולא כנתון, והמשיכה ממשיכה מהמקום שנשמר.",
-    "published":  "2026-09-18T13:29:07Z"
+    "version":  "19.0.1.39.147",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.147/kassa_repair-19.0.1.39.147.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/597836802",
+    "sha256":  "814b863200380643eab5db8a3580673c4e3875fba9325b8ae5444a527674bfed",
+    "size":  11900482,
+    "commit":  "fee30635bf34bc735f349e2867246d70b3605d54",
+    "files_digest":  "1ac568671be67377b990a278e62cae98fb29dc34005838f6f5621ae79b56f774",
+    "required":  false,
+    "notes_he":  "שיפורים ותיקונים בקופה.",
+    "published":  "2026-09-29T09:41:37Z"
 }
