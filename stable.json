@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.40.150",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.150/kassa_repair-19.0.1.40.150.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/598808349",
-    "sha256":  "2f84ff858a8177e2840661cd2c027fe66dff98d89b667caf1f6be957e3fe9b4e",
-    "size":  11909803,
-    "commit":  "83eb50053709d3621b1f26eb9e2d6be2d4d6636f",
-    "files_digest":  "a74624afb20ce6fac0371b1796f00e06369f0004f4d61a934bb8a458e16dc842",
+    "version":  "19.0.1.40.151",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.151/kassa_repair-19.0.1.40.151.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/599081595",
+    "sha256":  "55c5bf0a4f9f9aa2d9cca4ee68eb60b8d60766c0b9ae62129216763825488962",
+    "size":  11908204,
+    "commit":  "58dab149cd86b9149f56eca468e3e8b12371465a",
+    "files_digest":  "7982083e72658a9135037892fad021830c0f2d67330c561bcf01956fe582bd03",
     "required":  false,
-    "notes_he":  "התקנת סניף נוסף פועלת כעת באמצעות קישור חד־פעמי ממרכז הלקוחות, עם שיוך אוטומטי לרשת ולסניף.",
-    "published":  "2026-09-29T17:34:53Z"
+    "notes_he":  "פתיחת סניף מאושר מחזירה קישור התקנה חד-פעמי למחשב החדש ואינה יוצרת קופה מקומית או כתובת 192.168.",
+    "published":  "2026-09-29T19:54:36Z"
 }
