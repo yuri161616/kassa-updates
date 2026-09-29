@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.39.147",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.39.147/kassa_repair-19.0.1.39.147.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/597836802",
-    "sha256":  "814b863200380643eab5db8a3580673c4e3875fba9325b8ae5444a527674bfed",
-    "size":  11900482,
-    "commit":  "fee30635bf34bc735f349e2867246d70b3605d54",
-    "files_digest":  "1ac568671be67377b990a278e62cae98fb29dc34005838f6f5621ae79b56f774",
+    "version":  "19.0.1.40.150",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.150/kassa_repair-19.0.1.40.150.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/598808349",
+    "sha256":  "2f84ff858a8177e2840661cd2c027fe66dff98d89b667caf1f6be957e3fe9b4e",
+    "size":  11909803,
+    "commit":  "83eb50053709d3621b1f26eb9e2d6be2d4d6636f",
+    "files_digest":  "a74624afb20ce6fac0371b1796f00e06369f0004f4d61a934bb8a458e16dc842",
     "required":  false,
-    "notes_he":  "שיפורים ותיקונים בקופה.",
-    "published":  "2026-09-29T09:41:37Z"
+    "notes_he":  "התקנת סניף נוסף פועלת כעת באמצעות קישור חד־פעמי ממרכז הלקוחות, עם שיוך אוטומטי לרשת ולסניף.",
+    "published":  "2026-09-29T17:34:53Z"
 }
