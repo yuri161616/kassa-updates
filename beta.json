@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.40.152",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.152/kassa_repair-19.0.1.40.152.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/599162757",
-    "sha256":  "384b54fe28de8cd914f1ff370252e325519b4c95c0c49767aec9c8270f47037f",
-    "size":  11909159,
-    "commit":  "6c2cc2d1def651d8d39ac5b17474bd75c8d92d91",
-    "files_digest":  "da7e45809785df20bf51c33da023fb107723704d540e7c5b0093ee49341f085e",
+    "version":  "19.0.1.40.153",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.153/kassa_repair-19.0.1.40.153.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/600421483",
+    "sha256":  "aa5943a4d37b7792d0a88afee8677fb699f6c8a702895ac3c727289071eb00aa",
+    "size":  11905713,
+    "commit":  "76a0809a3a7f08b59a43a6cdeb5ede55a7ade673",
+    "files_digest":  "ea89118d4c29d2b18078c80dc40c00909aa24e1d43f7d25c1549fa4df4c22a72",
     "required":  false,
-    "notes_he":  "כרטיס התקנת הסניף עוצב מחדש במראה MAXIMA: כותרת ברורה, קישור מסודר, העתקה וכפתור התקנה.",
-    "published":  "2026-09-29T20:34:48Z"
+    "notes_he":  "Owner-only branch and till provisioning",
+    "published":  "2026-09-30T08:33:02Z"
 }
