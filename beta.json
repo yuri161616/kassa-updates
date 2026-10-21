@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.40.153",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.153/kassa_repair-19.0.1.40.153.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/600421483",
-    "sha256":  "aa5943a4d37b7792d0a88afee8677fb699f6c8a702895ac3c727289071eb00aa",
-    "size":  11905713,
-    "commit":  "76a0809a3a7f08b59a43a6cdeb5ede55a7ade673",
-    "files_digest":  "ea89118d4c29d2b18078c80dc40c00909aa24e1d43f7d25c1549fa4df4c22a72",
+    "version":  "19.0.1.40.154",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.154/kassa_repair-19.0.1.40.154.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/663520704",
+    "sha256":  "d3e605b3c01cd4b336e594c7bc21669961ca9312c654c5c13726b70d59f8426f",
+    "size":  11905917,
+    "commit":  "de3568cca81711a41e7d448a556fb72d407c98f9",
+    "files_digest":  "5dacaa667a039010c26521eba97ed57d7ca967461c3c20f78f6dc9744f900730",
     "required":  false,
-    "notes_he":  "Owner-only branch and till provisioning",
-    "published":  "2026-09-30T08:33:02Z"
+    "notes_he":  "תיקון הורדת מתקין ב-Chrome וחידוש קישור התקנה לסניף קיים. עדכון הפאנל מתבצע בנפרד לפי התיעוד. הורדה מלאה ב-Chrome וסכום ביקורת אומתו; התקנה מלאה על Windows נקי טרם אומתה.",
+    "published":  "2026-10-21T19:10:49Z"
 }
