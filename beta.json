@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.40.154",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.154/kassa_repair-19.0.1.40.154.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/663520704",
-    "sha256":  "d3e605b3c01cd4b336e594c7bc21669961ca9312c654c5c13726b70d59f8426f",
-    "size":  11905917,
-    "commit":  "de3568cca81711a41e7d448a556fb72d407c98f9",
-    "files_digest":  "5dacaa667a039010c26521eba97ed57d7ca967461c3c20f78f6dc9744f900730",
+    "version":  "19.0.1.40.155",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.155/kassa_repair-19.0.1.40.155.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/668458205",
+    "sha256":  "f2b1a06d4907d63765c62acd745acb121eace3aedad58c5123600dbc65f649cb",
+    "size":  11919565,
+    "commit":  "83aa482db96ec7159d3436d68db4392fed7087c6",
+    "files_digest":  "e9d4cde45502a283960d776ee806d6f9f7c7815eab824f8bda373cac9f2fa080",
     "required":  false,
-    "notes_he":  "תיקון הורדת מתקין ב-Chrome וחידוש קישור התקנה לסניף קיים. עדכון הפאנל מתבצע בנפרד לפי התיעוד. הורדה מלאה ב-Chrome וסכום ביקורת אומתו; התקנה מלאה על Windows נקי טרם אומתה.",
-    "published":  "2026-10-21T19:10:49Z"
+    "notes_he":  "התאמה לרישום תוכנה ברשות המסים: מספור מסמכים רציף מהשרת, כותרת חשבונית מס וסכום ללא מע״מ בקבלה, חשבונית מס זיכוי עם הפניה לחשבונית המקורית וסיבת זיכוי, מקור/העתק, דוחות 2.6 ו-5.4 במבנה אחיד (נבדק בסימולטור: תקינה), דוח Z עם הפרדת שירותים ומכירות, מספר עמוד בכל הדפסה ורשימת רשומות לפי סדר הרישום.",
+    "published":  "2026-10-23T08:18:10Z"
 }
