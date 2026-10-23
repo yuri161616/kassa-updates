@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.40.153",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.153/kassa_repair-19.0.1.40.153.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/600421483",
-    "sha256":  "aa5943a4d37b7792d0a88afee8677fb699f6c8a702895ac3c727289071eb00aa",
-    "size":  11905713,
-    "commit":  "76a0809a3a7f08b59a43a6cdeb5ede55a7ade673",
-    "files_digest":  "ea89118d4c29d2b18078c80dc40c00909aa24e1d43f7d25c1549fa4df4c22a72",
+    "version":  "19.0.1.40.155",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.155/kassa_repair-19.0.1.40.155.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/668458205",
+    "sha256":  "f2b1a06d4907d63765c62acd745acb121eace3aedad58c5123600dbc65f649cb",
+    "size":  11919565,
+    "commit":  "83aa482db96ec7159d3436d68db4392fed7087c6",
+    "files_digest":  "e9d4cde45502a283960d776ee806d6f9f7c7815eab824f8bda373cac9f2fa080",
     "required":  false,
-    "notes_he":  "Owner-only branch and till provisioning",
-    "published":  "2026-09-30T08:33:02Z"
+    "notes_he":  "התאמה לרישום תוכנה ברשות המסים: מספור מסמכים רציף מהשרת, כותרת חשבונית מס וסכום ללא מע״מ בקבלה, חשבונית מס זיכוי עם הפניה לחשבונית המקורית וסיבת זיכוי, מקור/העתק, דוחות 2.6 ו-5.4 במבנה אחיד (נבדק בסימולטור: תקינה), דוח Z עם הפרדת שירותים ומכירות, מספר עמוד בכל הדפסה ורשימת רשומות לפי סדר הרישום.",
+    "published":  "2026-10-23T08:18:10Z"
 }
