@@ -1,12 +1,12 @@
 {
-    "version":  "19.0.1.40.156",
-    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.156/kassa_repair-19.0.1.40.156.zip",
-    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/723366967",
-    "sha256":  "62948ebe455dedb1d70cdb023624c6cbc21bf56c0f4816fc4656193444246a7c",
-    "size":  11919957,
-    "commit":  "d8a7da15e296dcee095bb52257a34759721c91a6",
-    "files_digest":  "174ed42160324e7ccc5ad0411eb9c986506167b96de00849733343ed7d7c207b",
+    "version":  "19.0.1.40.157",
+    "url":  "https://github.com/yuri161616/kassa-updates/releases/download/v19.0.1.40.157/kassa_repair-19.0.1.40.157.zip",
+    "api_url":  "https://api.github.com/repos/yuri161616/kassa-updates/releases/assets/795767422",
+    "sha256":  "aeea75e89589b3197284e89a82d1cf0648de5ecdcd4821bc257ab4b4d68392db",
+    "size":  11974193,
+    "commit":  "1090cb0ec0c7d152e114f92316c7c0fab0db03c1",
+    "files_digest":  "7bd9fa4bd2d4540a3750917bd52a92e6862ac7c6d782d99e8839a25688f4a4c6",
     "required":  false,
-    "notes_he":  "התאמה לרישום תוכנה ברשות המסים: מספור מסמכים רציף מהשרת, כותרת חשבונית מס וסכום ללא מע״מ בקבלה, חשבונית מס זיכוי עם הפניה לחשבונית המקורית וסיבת זיכוי, מקור/העתק, דוחות 2.6 ו-5.4 במבנה אחיד (נבדק בסימולטור: תקינה), דוח Z עם הפרדת שירותים ומכירות, מספר עמוד בכל הדפסה ורשימת רשומות לפי סדר הרישום.",
-    "published":  "2026-11-08T08:26:26Z"
+    "notes_he":  "מעבר מקופה ישנה: עלות המוצר נשמרת ללא מע״מ, מספר המוצר הישן הופך לקוד ולברקוד פנימי, ובקבלת תיקון מכשיר שנמכר בקופה הישנה מזוהה לפי IMEI. חלון האחריות מציג רכישות של כל הכרטיסים שעל אותו טלפון. הסימון ״מסמך ממוחשב״ מופיע על הקבלה.",
+    "published":  "2026-11-26T12:21:04Z"
 }
